@@ -1,0 +1,1172 @@
+"prov_ubi"	"clase"	"sector"	"sexo"	"cod_edad"	"edad"	"prov_res"	"añobase"	"dia_estad"	"con_egrpa"	"cau_cie10"	"causa3"	"cap221rx"	"cau221rx"	"cau298rx"	"cant_res"	"cant_ubi"	"area_ubi"	"area_res"	"esp_egrpa"	"etnia"	"codedad3"	"EDADREAL2"	"EDADCATEGORIA"	"TRANSITO2018"	"Regiones"	"Stroketypes"	"vivomuerto"	"lustroshasta80"	"APENDICITIS"	"LUSTROSFINALES"	"Cantonelevation"	"HighAltitudeCLAS"
+"Pichincha"	2	2	"Hombre"	4	41	17	2016	45	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	41	5	NA	1	NA	1	10	NA	9	6	3
+"Pichincha"	2	1	"Hombre"	4	80	17	2018	38	1	"T511"	"T51"	19	214	285	"Cayambe"	"1701"	2	1	27	"Mestizo/a"	1	80	6	NA	1	NA	1	18	NA	17	6	3
+"Manabí"	1	1	"Hombre"	4	59	13	2017	31	1	"T519"	"T51"	19	214	285	"Pedernales"	"1304"	1	1	27	"Mestizo/a"	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Manabí"	2	1	"Hombre"	4	65	13	2018	30	1	"T519"	"T51"	19	214	285	"San Vicente"	"1314"	1	1	27	"Mestizo/a"	1	65	6	NA	2	NA	1	15	NA	14	1	1
+"Pichincha"	11	1	"Hombre"	4	63	5	2018	25	1	"T511"	"T51"	19	214	285	"Latacunga"	"1701"	1	1	27	"Ignorado/a"	1	63	5	NA	1	NA	1	14	NA	13	8	4
+"Pichincha"	11	1	"Hombre"	4	65	17	2018	21	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	65	6	NA	1	NA	1	15	NA	14	6	3
+"Tungurahua"	2	1	"Hombre"	4	15	18	2014	20	1	"T51"	"T51"	19	214	285	"Quero"	"1801"	NA	NA	NA	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	11	1	"Hombre"	4	52	17	2011	18	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Pichincha"	2	1	"Mujer"	4	70	17	2017	18	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	70	6	NA	1	NA	1	16	NA	15	6	3
+"Azuay"	2	1	"Hombre"	4	22	1	2017	16	3	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	22	4	NA	1	NA	2	6	NA	5	5	2
+"Tungurahua"	2	1	"Hombre"	4	48	1	2017	16	1	"T519"	"T51"	19	214	285	"Cuenca"	"1801"	1	1	44	"Mestizo/a"	1	48	5	NA	1	NA	1	11	NA	10	5	2
+"Pichincha"	2	1	"Hombre"	4	49	17	2011	15	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	49	5	NA	1	NA	1	11	NA	10	6	3
+"Guayas"	2	1	"Hombre"	4	25	9	2011	15	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	25	4	NA	2	NA	1	7	NA	6	1	1
+"Guayas"	3	1	"Hombre"	4	22	9	2011	15	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Guayas"	3	1	"Hombre"	4	39	9	2011	14	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	2	1	"Mujer"	4	22	9	2013	14	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Pichincha"	11	1	"Hombre"	4	32	17	2017	14	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	2	1	"Hombre"	4	26	17	2017	14	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Tungurahua"	1	2	"Hombre"	4	58	18	2018	14	3	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	58	5	NA	1	NA	2	13	NA	12	6	3
+"Manabí"	12	2	"Hombre"	4	19	13	2016	13	1	"T519"	"T51"	19	214	285	"Manta"	"1308"	1	1	49	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	2	1	"Hombre"	4	54	17	2017	13	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	54	5	NA	1	NA	1	12	NA	11	6	3
+"Pichincha"	11	1	"Hombre"	4	36	5	2017	12	1	"T511"	"T51"	19	214	285	"Saquisilí"	"1701"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	8	4
+"Guayas"	11	1	"Hombre"	4	35	9	2018	12	1	"T510"	"T51"	19	214	285	"Pedro Carbo"	"901"	1	2	27	"Mestizo/a"	1	35	4	NA	2	NA	1	9	NA	8	1	1
+"Pichincha"	2	1	"Mujer"	4	14	17	2018	12	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	2	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	12	2	"Hombre"	4	42	9	2014	11	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Guayas"	3	1	"Hombre"	4	44	9	2011	10	1	"T510"	"T51"	19	214	285	"Daule"	"901"	NA	NA	NA	NA	1	44	5	NA	2	NA	1	10	NA	9	1	1
+"Pichincha"	11	1	"Mujer"	4	15	17	2013	10	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	1	"Hombre"	4	21	17	2014	10	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Manabí"	2	1	"Mujer"	4	31	13	2017	10	1	"T511"	"T51"	19	214	285	"Portoviejo"	"1301"	1	1	27	"Mestizo/a"	1	31	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	11	1	"Hombre"	4	37	17	2017	10	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Pichincha"	11	1	"Hombre"	4	35	17	2017	10	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	35	4	NA	1	NA	1	9	NA	8	6	3
+"Pichincha"	2	1	"Hombre"	4	45	17	2017	10	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	45	5	NA	1	NA	1	11	NA	10	6	3
+"Chimborazo"	2	1	"Hombre"	4	56	6	2018	10	1	"T519"	"T51"	19	214	285	"Guamote"	"601"	1	2	27	"Indígena"	1	56	5	NA	1	NA	1	13	NA	12	7	3
+"Guayas"	2	1	"Hombre"	4	55	12	2011	9	1	"T511"	"T51"	19	214	285	"Puebloviejo"	"901"	NA	NA	NA	NA	1	55	5	NA	2	NA	1	13	NA	12	1	1
+"Pichincha"	2	1	"Hombre"	4	51	17	2011	9	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	51	5	NA	1	NA	1	12	NA	11	6	3
+"Manabí"	1	1	"Hombre"	4	26	13	2013	9	1	"T519"	"T51"	19	214	285	"Montecristi"	"1308"	NA	NA	NA	NA	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Pichincha"	11	1	"Hombre"	4	37	17	2015	9	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Azuay"	2	1	"Hombre"	4	52	1	2016	9	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	5	2
+"Cotopaxi"	1	1	"Hombre"	4	40	5	2018	9	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	40	5	NA	1	NA	1	9	NA	9	8	4
+"Cañar"	2	1	"Hombre"	4	33	3	2018	9	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Napo"	1	1	"Hombre"	4	56	15	2011	8	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	56	5	NA	3	NA	1	13	NA	12	2	1
+"Pichincha"	2	1	"Hombre"	4	26	17	2011	8	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	11	1	"Mujer"	4	15	17	2011	8	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Azuay"	11	1	"Mujer"	4	39	1	2012	8	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	39	4	NA	1	NA	1	9	NA	8	5	2
+"Azuay"	2	1	"Hombre"	4	30	1	2012	8	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	30	4	NA	1	NA	1	8	NA	7	5	2
+"Guayas"	2	1	"Hombre"	4	48	9	2013	8	3	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	48	5	NA	2	NA	2	11	NA	10	1	1
+"Tungurahua"	2	1	"Hombre"	4	29	6	2013	8	1	"T511"	"T51"	19	214	285	"Riobamba"	"1801"	NA	NA	NA	NA	1	29	4	NA	1	NA	1	7	NA	6	6	3
+"Chimborazo"	2	1	"Mujer"	4	33	6	2016	8	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Azuay"	11	1	"Hombre"	4	14	1	2017	8	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	41	"Ignorado/a"	1	14	3	NA	1	NA	1	4	NA	3	5	2
+"Pichincha"	11	1	"Hombre"	4	32	5	2017	8	1	"T511"	"T51"	19	214	285	"Latacunga"	"1701"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	1	"Hombre"	4	76	5	2018	8	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	76	6	NA	1	NA	1	17	NA	16	8	4
+"Azuay"	2	1	"Hombre"	4	55	1	2011	7	1	"T511"	"T51"	19	214	285	"Sigsig"	"101"	NA	NA	NA	NA	1	55	5	NA	1	NA	1	13	NA	12	6	3
+"Napo"	2	1	"Hombre"	4	46	15	2011	7	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	46	5	NA	3	NA	1	11	NA	10	2	1
+"Imbabura"	2	1	"Hombre"	4	25	10	2011	7	1	"T511"	"T51"	19	214	285	"Ibarra"	"1001"	NA	NA	NA	NA	1	25	4	NA	1	NA	1	7	NA	6	5	2
+"Guayas"	2	1	"Hombre"	4	24	9	2011	7	1	"T518"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Manabí"	2	1	"Mujer"	4	6	13	2011	7	1	"T510"	"T51"	19	214	285	"Portoviejo"	"1301"	NA	NA	NA	NA	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Loja"	1	1	"Mujer"	4	22	11	2012	7	1	"T510"	"T51"	19	214	285	"Calvas"	"1102"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	4	2
+"Azuay"	2	1	"Hombre"	4	3	1	2012	7	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	3	1	NA	1	NA	1	2	NA	1	5	2
+"Pichincha"	8	1	"Mujer"	4	78	17	2013	7	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	78	6	NA	1	NA	1	17	NA	16	6	3
+"Azuay"	12	2	"Hombre"	4	44	1	2013	7	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	44	5	NA	1	NA	1	10	NA	9	5	2
+"Azuay"	11	1	"Hombre"	4	24	1	2014	7	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	5	2
+"Azuay"	12	2	"Mujer"	4	14	1	2014	7	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	"Indígena"	1	14	3	NA	1	NA	1	4	NA	3	5	2
+"Guayas"	11	1	"Hombre"	4	36	9	2015	7	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Otro/a"	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Pichincha"	2	2	"Hombre"	4	13	17	2015	7	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	29	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Los Ríos"	1	1	"Hombre"	4	26	13	2016	7	1	"T519"	"T51"	19	214	285	"El Carmen"	"1205"	1	1	27	"Mestizo/a"	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Pichincha"	2	1	"Hombre"	4	36	17	2017	7	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Pichincha"	11	1	"Hombre"	4	33	17	2017	7	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Otro/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	11	1	"Hombre"	4	51	17	2017	7	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	51	5	NA	1	NA	1	12	NA	11	6	3
+"Morona Santiago"	1	1	"Mujer"	4	17	14	2017	7	1	"T511"	"T51"	19	214	285	"Limón Indanza"	"1403"	1	1	27	"Mestizo/a"	1	17	3	NA	3	NA	1	5	NA	4	3	1
+"Cotopaxi"	1	1	"Mujer"	4	33	5	2018	7	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	8	4
+"Morona Santiago"	1	1	"Hombre"	4	43	14	2018	7	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	1	2	27	"Mestizo/a"	1	43	5	NA	3	NA	1	10	NA	9	2	1
+"Guayas"	3	1	"Hombre"	4	62	9	2011	6	1	"T511"	"T51"	19	214	285	"Naranjito"	"901"	NA	NA	NA	NA	1	62	5	NA	2	NA	1	14	NA	13	1	1
+"Guayas"	3	1	"Hombre"	4	50	9	2011	6	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	50	5	NA	2	NA	1	12	NA	11	1	1
+"Los Ríos"	2	1	"Mujer"	4	40	12	2011	6	1	"T511"	"T51"	19	214	285	"Urdaneta"	"1201"	NA	NA	NA	NA	1	40	5	NA	2	NA	1	9	NA	9	1	1
+"Pichincha"	2	1	"Mujer"	4	39	17	2011	6	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	39	4	NA	1	NA	1	9	NA	8	6	3
+"Imbabura"	12	2	"Hombre"	4	35	10	2011	6	1	"T511"	"T51"	19	214	285	"Ibarra"	"1001"	NA	NA	NA	NA	1	35	4	NA	1	NA	1	9	NA	8	5	2
+"Napo"	2	1	"Mujer"	4	16	15	2011	6	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	16	3	NA	3	NA	1	5	NA	4	2	1
+"Pichincha"	11	1	"Hombre"	4	53	23	2012	6	1	"T511"	"T51"	19	214	285	"Santo Domingo"	"1701"	NA	NA	NA	NA	1	53	5	NA	2	NA	1	12	NA	11	2	1
+"Azuay"	11	2	"Mujer"	4	42	1	2012	6	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	42	5	NA	1	NA	1	10	NA	9	5	2
+"Azuay"	12	2	"Mujer"	4	39	1	2012	6	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	39	4	NA	1	NA	1	9	NA	8	5	2
+"Pastaza"	2	1	"Hombre"	4	18	16	2014	6	1	"T511"	"T51"	19	214	285	"Pastaza"	"1601"	NA	NA	NA	"Mestizo/a"	1	18	3	NA	3	NA	1	5	NA	4	2	1
+"Guayas"	5	1	"Mujer"	4	14	9	2014	6	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	1	1	"Hombre"	4	32	9	2015	6	1	"T519"	"T51"	19	214	285	"Naranjal"	"911"	1	1	27	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	5	1	"Mujer"	4	13	9	2015	6	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	13	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	2	3	"Hombre"	4	67	9	2016	6	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	7	"Mestizo/a"	1	67	6	NA	2	NA	1	15	NA	14	1	1
+"Cañar"	2	1	"Hombre"	4	48	3	2016	6	1	"T510"	"T51"	19	214	285	"Déleg"	"301"	1	2	27	"Mestizo/a"	1	48	5	NA	1	NA	1	11	NA	10	6	3
+"Pichincha"	11	1	"Hombre"	4	43	17	2016	6	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	43	5	NA	1	NA	1	10	NA	9	6	3
+"Tungurahua"	2	1	"Hombre"	4	26	18	2016	6	1	"T511"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	2	1	"Hombre"	4	54	17	2017	6	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	54	5	NA	1	NA	1	12	NA	11	6	3
+"Pichincha"	2	1	"Hombre"	4	27	10	2017	6	1	"T519"	"T51"	19	214	285	"Cotacachi"	"1701"	2	1	27	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	5	2
+"Guayas"	2	1	"Hombre"	4	37	9	2017	6	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	44	"Mestizo/a"	1	37	4	NA	2	NA	1	9	NA	8	1	1
+"Esmeraldas"	2	1	"Hombre"	4	51	23	2017	6	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"801"	1	1	27	"Mestizo/a"	1	51	5	NA	2	NA	1	12	NA	11	2	1
+"Tungurahua"	2	1	"Mujer"	4	16	18	2017	6	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	2	1	"Mujer"	4	15	6	2018	6	1	"T510"	"T51"	19	214	285	"Guamote"	"601"	1	2	44	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	7	3
+"Pichincha"	12	2	"Hombre"	4	31	17	2018	6	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Chimborazo"	1	1	"Hombre"	4	39	6	2018	6	1	"T519"	"T51"	19	214	285	"Alausí"	"602"	1	1	27	"Indígena"	1	39	4	NA	1	NA	1	9	NA	8	5	2
+"Manabí"	2	1	"Hombre"	4	57	13	2018	6	1	"T510"	"T51"	19	214	285	"Chone"	"1303"	1	1	27	"Mestizo/a"	1	57	5	NA	2	NA	1	13	NA	12	1	1
+"Guayas"	5	1	"Mujer"	4	5	9	2018	6	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	30	"Mestizo/a"	1	5	1	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	5	1	"Hombre"	4	12	9	2018	6	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	17	"Mestizo/a"	1	12	2	NA	2	NA	1	4	NA	3	1	1
+"Cotopaxi"	2	1	"Hombre"	4	22	5	2018	6	1	"T519"	"T51"	19	214	285	"Salcedo"	"501"	1	1	27	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	8	4
+"Pichincha"	2	1	"Mujer"	4	20	17	2018	6	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	12	2	"Hombre"	4	39	12	2011	5	1	"T511"	"T51"	19	214	285	"Urdaneta"	"901"	NA	NA	NA	NA	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	2	1	"Hombre"	4	37	12	2011	5	1	"T511"	"T51"	19	214	285	"Puebloviejo"	"901"	NA	NA	NA	NA	1	37	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	3	1	"Hombre"	4	33	9	2011	5	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	2	1	"Hombre"	4	30	12	2011	5	1	"T511"	"T51"	19	214	285	"Babahoyo"	"901"	NA	NA	NA	NA	1	30	4	NA	2	NA	1	8	NA	7	1	1
+"Azuay"	2	1	"Hombre"	4	26	1	2011	5	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	26	4	NA	1	NA	1	7	NA	6	5	2
+"Guayas"	3	1	"Mujer"	4	18	9	2011	5	1	"T511"	"T51"	19	214	285	"Milagro"	"901"	NA	NA	NA	NA	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	5	1	"Hombre"	4	15	9	2011	5	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Azuay"	11	1	"Hombre"	4	43	1	2012	5	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	43	5	NA	1	NA	1	10	NA	9	5	2
+"Loja"	2	1	"Mujer"	4	36	11	2012	5	1	"T511"	"T51"	19	214	285	"Loja"	"1101"	NA	NA	NA	NA	1	36	4	NA	1	NA	1	9	NA	8	4	2
+"Tungurahua"	2	1	"Hombre"	4	34	18	2012	5	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Azuay"	12	2	"Hombre"	4	18	1	2012	5	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	18	3	NA	1	NA	1	5	NA	4	5	2
+"Napo"	2	1	"Hombre"	4	40	15	2013	5	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	40	5	NA	3	NA	1	9	NA	9	2	1
+"Pichincha"	2	1	"Mujer"	4	38	17	2013	5	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	38	4	NA	1	NA	1	9	NA	8	6	3
+"Azuay"	2	1	"Hombre"	4	34	1	2013	5	1	"T511"	"T51"	19	214	285	"Sigsig"	"101"	NA	NA	NA	NA	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Guayas"	2	1	"Hombre"	4	26	12	2013	5	1	"T510"	"T51"	19	214	285	"Quevedo"	"901"	NA	NA	NA	NA	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Morona Santiago"	1	1	"Mujer"	4	19	14	2013	5	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	NA	NA	NA	NA	1	19	3	NA	3	NA	1	5	NA	4	2	1
+"Tungurahua"	2	1	"Mujer"	4	13	18	2013	5	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	2	1	"Mujer"	4	4	9	2013	5	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	4	1	NA	2	NA	1	2	NA	1	1	1
+"Pastaza"	2	1	"Hombre"	4	81	16	2014	5	1	"T519"	"T51"	19	214	285	"Pastaza"	"1601"	NA	NA	NA	"Indígena"	1	81	6	NA	3	NA	1	18	NA	17	2	1
+"Santo Domingo de los Tsáchilas"	12	2	"Mujer"	4	46	23	2014	5	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	NA	NA	NA	"Mestizo/a"	1	46	5	NA	2	NA	1	11	NA	10	2	1
+"Guayas"	5	1	"Hombre"	4	6	9	2014	5	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Tungurahua"	2	1	"Hombre"	4	55	18	2015	5	3	"T511"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	55	5	NA	1	NA	2	13	NA	12	6	3
+"Guayas"	5	1	"Mujer"	4	15	9	2015	5	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Azuay"	2	1	"Hombre"	4	75	1	2016	5	3	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	75	6	NA	1	NA	2	17	NA	16	5	2
+"Chimborazo"	2	1	"Mujer"	4	20	6	2017	5	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Chimborazo"	2	1	"Mujer"	4	28	6	2017	5	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"El Oro"	1	1	"Hombre"	4	33	7	2017	5	1	"T519"	"T51"	19	214	285	"Pasaje"	"709"	1	1	27	"Mestizo/a"	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	2	1	"Hombre"	4	44	17	2017	5	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	44	5	NA	1	NA	1	10	NA	9	6	3
+"Pichincha"	11	1	"Hombre"	4	52	17	2017	5	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Pichincha"	11	1	"Hombre"	4	49	17	2017	5	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	6	3
+"Pichincha"	11	1	"Hombre"	4	38	17	2017	5	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	38	4	NA	1	NA	1	9	NA	8	6	3
+"Los Ríos"	1	1	"Hombre"	4	42	12	2017	5	1	"T519"	"T51"	19	214	285	"Vinces"	"1208"	1	1	27	"Mestizo/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Pichincha"	2	1	"Hombre"	4	22	5	2017	5	1	"T511"	"T51"	19	214	285	"Latacunga"	"1701"	2	1	27	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	8	4
+"Imbabura"	1	1	"Hombre"	4	16	10	2018	5	1	"T519"	"T51"	19	214	285	"Otavalo"	"1004"	1	1	27	"Indígena"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Azuay"	1	1	"Hombre"	4	46	1	2018	5	1	"T510"	"T51"	19	214	285	"Sigsig"	"109"	1	1	27	"Mestizo/a"	1	46	5	NA	1	NA	1	11	NA	10	6	3
+"Chimborazo"	2	1	"Hombre"	4	27	6	2018	5	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Indígena"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	2	1	"Mujer"	4	16	17	2018	5	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Cañar"	2	1	"Hombre"	4	52	3	2018	5	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Pichincha"	12	2	"Hombre"	4	61	17	2018	5	1	"T519"	"T51"	19	214	285	"Mejía"	"1703"	1	1	27	"Mestizo/a"	1	61	5	NA	1	NA	1	14	NA	13	6	3
+"Cotopaxi"	1	2	"Hombre"	4	28	5	2018	5	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	8	4
+"Manabí"	2	1	"Hombre"	4	16	13	2018	5	1	"T519"	"T51"	19	214	285	"Portoviejo"	"1301"	1	1	27	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Santo Domingo de los Tsáchilas"	2	1	"Hombre"	4	14	17	2018	5	1	"T519"	"T51"	19	214	285	"Quito"	"2301"	1	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	2	1	"Mujer"	4	28	17	2018	5	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Los Ríos"	1	1	"Hombre"	4	40	13	2011	4	1	"T511"	"T51"	19	214	285	"Bolívar"	"1206"	NA	NA	NA	NA	1	40	5	NA	2	NA	1	9	NA	9	1	1
+"Napo"	2	1	"Hombre"	4	36	15	2011	4	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	36	4	NA	3	NA	1	9	NA	8	2	1
+"Los Ríos"	1	1	"Hombre"	4	27	12	2011	4	1	"T510"	"T51"	19	214	285	"Vinces"	"1208"	NA	NA	NA	NA	1	27	4	NA	2	NA	1	7	NA	6	1	1
+"Napo"	1	1	"Hombre"	4	24	15	2011	4	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	24	4	NA	3	NA	1	6	NA	5	2	1
+"Guayas"	5	1	"Mujer"	4	14	9	2011	4	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	5	1	"Hombre"	4	6	9	2011	4	1	"T510"	"T51"	19	214	285	"Milagro"	"901"	NA	NA	NA	NA	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	2	1	"Hombre"	4	25	9	2012	4	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	25	4	NA	2	NA	1	7	NA	6	1	1
+"Pichincha"	5	1	"Mujer"	4	14	17	2012	4	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Los Ríos"	2	1	"Hombre"	4	68	12	2013	4	1	"T511"	"T51"	19	214	285	"Babahoyo"	"1201"	NA	NA	NA	NA	1	68	6	NA	2	NA	1	15	NA	14	1	1
+"Los Ríos"	2	1	"Hombre"	4	48	12	2013	4	1	"T511"	"T51"	19	214	285	"Ventanas"	"1201"	NA	NA	NA	NA	1	48	5	NA	2	NA	1	11	NA	10	1	1
+"El Oro"	1	1	"Hombre"	4	19	7	2013	4	1	"T519"	"T51"	19	214	285	"Piñas"	"710"	NA	NA	NA	NA	1	19	3	NA	2	NA	1	5	NA	4	2	1
+"Azuay"	11	1	"Mujer"	4	13	1	2013	4	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	5	2
+"Guayas"	5	1	"Hombre"	4	13	9	2013	4	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	13	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	5	1	"Hombre"	4	6	9	2013	4	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Azuay"	2	1	"Hombre"	4	56	1	2014	4	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	"Mestizo/a"	1	56	5	NA	1	NA	1	13	NA	12	5	2
+"Azuay"	1	1	"Mujer"	4	56	1	2014	4	1	"T519"	"T51"	19	214	285	"Girón"	"102"	NA	NA	NA	"Mestizo/a"	1	56	5	NA	1	NA	1	13	NA	12	5	2
+"Morona Santiago"	1	1	"Hombre"	4	45	14	2014	4	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	NA	NA	NA	"Mestizo/a"	1	45	5	NA	3	NA	1	11	NA	10	2	1
+"Tungurahua"	2	1	"Mujer"	4	19	18	2014	4	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	2	1	"Mujer"	4	18	18	2014	4	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	2	1	"Hombre"	4	16	6	2014	4	1	"T511"	"T51"	19	214	285	"Riobamba"	"601"	NA	NA	NA	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	5	1	"Mujer"	4	14	6	2014	4	1	"T51"	"T51"	19	214	285	"Riobamba"	"601"	NA	NA	NA	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	5	1	"Mujer"	4	1	9	2014	4	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Tungurahua"	2	1	"Mujer"	4	50	18	2015	4	1	"T518"	"T51"	19	214	285	"Cevallos"	"1801"	1	1	27	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	4	2
+"Guayas"	2	3	"Mujer"	4	34	9	2015	4	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	11	1	"Hombre"	4	31	17	2015	4	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	2	1	"Mujer"	4	16	17	2015	4	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Ignorado/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	5	1	"Mujer"	4	14	9	2015	4	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	17	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Azuay"	2	1	"Hombre"	4	13	1	2015	4	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	41	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	5	2
+"Cañar"	2	1	"Hombre"	4	53	3	2016	4	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	53	5	NA	1	NA	1	12	NA	11	6	3
+"Chimborazo"	2	1	"Hombre"	4	49	6	2016	4	1	"T511"	"T51"	19	214	285	"Guano"	"601"	1	1	30	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	9	4
+"Guayas"	2	1	"Hombre"	4	38	9	2016	4	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Cañar"	2	1	"Mujer"	4	29	3	2016	4	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	29	4	NA	1	NA	1	7	NA	6	6	3
+"Santo Domingo de los Tsáchilas"	2	1	"Hombre"	4	24	13	2016	4	1	"T511"	"T51"	19	214	285	"El Carmen"	"2301"	1	1	27	"Mestizo/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Cañar"	2	1	"Hombre"	4	23	3	2016	4	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Pichincha"	2	1	"Mujer"	4	21	17	2016	4	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	1	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	2	1	"Hombre"	4	16	9	2016	4	1	"T518"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	12	2	"Mujer"	4	15	2	2016	4	1	"T518"	"T51"	19	214	285	"Guaranda"	"1701"	1	1	49	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Cañar"	2	1	"Mujer"	4	13	3	2016	4	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Cañar"	2	1	"Mujer"	4	13	3	2016	4	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	5	3	"Mujer"	4	6	13	2016	4	1	"T511"	"T51"	19	214	285	"Portoviejo"	"901"	1	1	41	"Mestizo/a"	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Azuay"	1	1	"Hombre"	4	4	1	2016	4	1	"T519"	"T51"	19	214	285	"Santa Isabel"	"108"	1	1	27	"Mestizo/a"	1	4	1	NA	1	NA	1	2	NA	1	4	2
+"Azuay"	2	1	"Hombre"	4	22	1	2017	4	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	5	2
+"Chimborazo"	1	2	"Hombre"	4	34	14	2017	4	1	"T519"	"T51"	19	214	285	"Taisha"	"601"	1	1	27	"Mestizo/a"	1	34	4	NA	3	NA	1	8	NA	7	2	1
+"Cotopaxi"	2	1	"Hombre"	4	46	5	2017	4	1	"T511"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	46	5	NA	1	NA	1	11	NA	10	8	4
+"Cotopaxi"	2	1	"Hombre"	4	20	5	2017	4	1	"T511"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	8	4
+"Cotopaxi"	2	1	"Hombre"	4	32	5	2017	4	1	"T511"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	2	1	"Hombre"	4	32	5	2017	4	1	"T511"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Pichincha"	11	1	"Mujer"	4	14	17	2017	4	1	"T519"	"T51"	19	214	285	"Rumiñahui"	"1701"	1	1	23	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	2	1	"Hombre"	4	17	17	2017	4	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	1	"Hombre"	4	61	17	2017	4	1	"T518"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	61	5	NA	1	NA	1	14	NA	13	6	3
+"El Oro"	1	1	"Hombre"	4	60	7	2017	4	1	"T519"	"T51"	19	214	285	"Pasaje"	"709"	1	1	27	"Mestizo/a"	1	60	5	NA	2	NA	1	14	NA	13	1	1
+"Chimborazo"	2	1	"Hombre"	4	39	6	2017	4	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	39	4	NA	1	NA	1	9	NA	8	6	3
+"Pichincha"	11	1	"Hombre"	4	48	17	2017	4	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	48	5	NA	1	NA	1	11	NA	10	6	3
+"Pichincha"	11	1	"Hombre"	4	60	17	2017	4	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	60	5	NA	1	NA	1	14	NA	13	6	3
+"Pichincha"	11	1	"Hombre"	4	41	17	2017	4	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	41	5	NA	1	NA	1	10	NA	9	6	3
+"Pichincha"	2	1	"Hombre"	4	30	17	2017	4	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	6	3
+"Imbabura"	2	1	"Hombre"	4	60	10	2017	4	1	"T519"	"T51"	19	214	285	"Ibarra"	"1001"	1	2	27	"Mestizo/a"	1	60	5	NA	1	NA	1	14	NA	13	5	2
+"Zamora Chinchipe"	2	1	"Hombre"	4	50	19	2017	4	1	"T510"	"T51"	19	214	285	"Yacuambí"	"1901"	1	1	27	"Mestizo/a"	1	50	5	NA	3	NA	1	12	NA	11	3	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	48	19	2017	4	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Mestizo/a"	1	48	5	NA	3	NA	1	11	NA	10	2	1
+"Tungurahua"	2	1	"Hombre"	4	17	18	2017	4	1	"T519"	"T51"	19	214	285	"San Pedro de Pelileo"	"1801"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	2	1	"Mujer"	4	12	18	2017	4	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	41	"Mestizo/a"	1	12	2	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	11	1	"Hombre"	4	27	17	2017	4	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	11	1	"Hombre"	4	29	17	2017	4	1	"T511"	"T51"	19	214	285	"Mejía"	"1701"	1	1	27	"Mestizo/a"	1	29	4	NA	1	NA	1	7	NA	6	6	3
+"El Oro"	1	1	"Hombre"	4	77	7	2017	4	1	"T519"	"T51"	19	214	285	"Huaquillas"	"707"	1	1	27	"Mestizo/a"	1	77	6	NA	2	NA	1	17	NA	16	1	1
+"Chimborazo"	1	1	"Hombre"	4	21	6	2017	4	1	"T519"	"T51"	19	214	285	"Alausí"	"602"	1	2	27	"Indígena"	1	21	4	NA	1	NA	1	6	NA	5	5	2
+"Cotopaxi"	1	1	"Mujer"	4	18	5	2017	4	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	1	1	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	11	1	"Hombre"	4	63	17	2017	4	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	30	"Otro/a"	1	63	5	NA	1	NA	1	14	NA	13	6	3
+"Guayas"	2	3	"Hombre"	4	27	9	2018	4	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Ignorado/a"	1	27	4	NA	2	NA	1	7	NA	6	1	1
+"Tungurahua"	2	1	"Mujer"	4	18	18	2018	4	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Morona Santiago"	1	1	"Hombre"	4	55	14	2018	4	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	1	2	27	"Mestizo/a"	1	55	5	NA	3	NA	1	13	NA	12	2	1
+"Cotopaxi"	2	1	"Hombre"	4	24	5	2018	4	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Indígena"	1	24	4	NA	1	NA	1	6	NA	5	8	4
+"Cañar"	2	1	"Hombre"	4	5	3	2018	4	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	5	1	NA	1	NA	1	3	NA	2	6	3
+"Zamora Chinchipe"	1	1	"Hombre"	4	54	19	2018	4	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	1	27	"Mestizo/a"	1	54	5	NA	3	NA	1	12	NA	11	2	1
+"Zamora Chinchipe"	1	1	"Mujer"	4	18	19	2018	4	1	"T519"	"T51"	19	214	285	"Nangaritza"	"1905"	1	1	27	"Mestizo/a"	1	18	3	NA	3	NA	1	5	NA	4	3	1
+"Zamora Chinchipe"	1	1	"Mujer"	4	38	19	2018	4	1	"T519"	"T51"	19	214	285	"Nangaritza"	"1905"	1	1	27	"Mestizo/a"	1	38	4	NA	3	NA	1	9	NA	8	3	1
+"Pichincha"	12	2	"Mujer"	4	4	17	2018	4	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	41	"Mestizo/a"	1	4	1	NA	1	NA	1	2	NA	1	6	3
+"Morona Santiago"	1	1	"Hombre"	4	59	14	2018	4	1	"T519"	"T51"	19	214	285	"Limón Indanza"	"1403"	1	1	27	"Mestizo/a"	1	59	5	NA	3	NA	1	13	NA	12	3	1
+"Cotopaxi"	2	1	"Hombre"	4	45	5	2018	4	1	"T511"	"T51"	19	214	285	"Pujilí"	"501"	1	2	27	"Indígena"	1	45	5	NA	1	NA	1	11	NA	10	6	3
+"Imbabura"	12	2	"Mujer"	4	89	10	2018	4	3	"T519"	"T51"	19	214	285	"Ibarra"	"1002"	1	1	49	"Mestizo/a"	1	89	6	NA	1	NA	2	18	NA	18	5	2
+"Pichincha"	2	1	"Hombre"	4	23	17	2018	4	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Pichincha"	2	1	"Mujer"	4	17	17	2018	4	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	1	"Hombre"	4	19	17	2018	4	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	11	1	"Mujer"	4	39	9	2018	4	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	44	"Mestizo/a"	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Pichincha"	12	2	"Hombre"	4	72	17	2011	3	3	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	72	6	NA	1	NA	2	16	NA	15	6	3
+"Tungurahua"	2	3	"Hombre"	4	71	18	2011	3	1	"T513"	"T51"	19	214	285	"San Pedro de Pelileo"	"1801"	NA	NA	NA	NA	1	71	6	NA	1	NA	1	16	NA	15	6	3
+"Napo"	2	1	"Hombre"	4	56	8	2011	3	1	"T511"	"T51"	19	214	285	"Muisne"	"1501"	NA	NA	NA	NA	1	56	5	NA	2	NA	1	13	NA	12	1	1
+"Napo"	1	1	"Hombre"	4	56	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	56	5	NA	3	NA	1	13	NA	12	2	1
+"Tungurahua"	2	1	"Hombre"	4	46	18	2011	3	3	"T511"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	46	5	NA	1	NA	2	11	NA	10	6	3
+"Tungurahua"	2	1	"Hombre"	4	45	18	2011	3	3	"T511"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	45	5	NA	1	NA	2	11	NA	10	6	3
+"Napo"	2	1	"Hombre"	4	42	8	2011	3	1	"T511"	"T51"	19	214	285	"Muisne"	"1501"	NA	NA	NA	NA	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Napo"	2	1	"Hombre"	4	41	15	2011	3	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	41	5	NA	3	NA	1	10	NA	9	2	1
+"Napo"	2	1	"Hombre"	4	40	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	40	5	NA	3	NA	1	9	NA	9	2	1
+"Napo"	2	1	"Hombre"	4	39	8	2011	3	1	"T511"	"T51"	19	214	285	"Muisne"	"1501"	NA	NA	NA	NA	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Napo"	2	1	"Hombre"	4	35	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	35	4	NA	3	NA	1	9	NA	8	2	1
+"Esmeraldas"	2	1	"Mujer"	4	33	8	2011	3	1	"T510"	"T51"	19	214	285	"Esmeraldas"	"801"	NA	NA	NA	NA	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	3	1	"Hombre"	4	33	12	2011	3	1	"T511"	"T51"	19	214	285	"Babahoyo"	"901"	NA	NA	NA	NA	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Napo"	2	1	"Hombre"	4	33	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	33	4	NA	3	NA	1	8	NA	7	2	1
+"Napo"	2	1	"Hombre"	4	33	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	33	4	NA	3	NA	1	8	NA	7	2	1
+"Napo"	2	1	"Hombre"	4	33	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	33	4	NA	3	NA	1	8	NA	7	2	1
+"Napo"	2	1	"Hombre"	4	32	5	2011	3	1	"T511"	"T51"	19	214	285	"Pangua"	"1501"	NA	NA	NA	NA	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Napo"	2	1	"Hombre"	4	26	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	26	4	NA	3	NA	1	7	NA	6	2	1
+"Los Ríos"	1	1	"Hombre"	4	24	12	2011	3	1	"T511"	"T51"	19	214	285	"Puebloviejo"	"1206"	NA	NA	NA	NA	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Napo"	2	1	"Hombre"	4	23	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	23	4	NA	3	NA	1	6	NA	5	2	1
+"Guayas"	3	1	"Hombre"	4	22	12	2011	3	1	"T511"	"T51"	19	214	285	"Babahoyo"	"901"	NA	NA	NA	NA	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Manabí"	1	1	"Hombre"	4	20	13	2011	3	1	"T511"	"T51"	19	214	285	"Montecristi"	"1308"	NA	NA	NA	NA	1	20	3	NA	2	NA	1	6	NA	5	1	1
+"Napo"	2	1	"Hombre"	4	19	15	2011	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	19	3	NA	3	NA	1	5	NA	4	2	1
+"Imbabura"	2	1	"Hombre"	4	18	10	2011	3	1	"T511"	"T51"	19	214	285	"Ibarra"	"1001"	NA	NA	NA	NA	1	18	3	NA	1	NA	1	5	NA	4	5	2
+"Pichincha"	2	1	"Hombre"	4	16	17	2011	3	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Manabí"	1	1	"Hombre"	4	4	13	2011	3	1	"T511"	"T51"	19	214	285	"Manta"	"1308"	NA	NA	NA	NA	1	4	1	NA	2	NA	1	2	NA	1	1	1
+"Azuay"	2	1	"Hombre"	4	39	1	2012	3	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	39	4	NA	1	NA	1	9	NA	8	5	2
+"Guayas"	1	1	"Hombre"	4	32	9	2012	3	1	"T510"	"T51"	19	214	285	"Daule"	"906"	NA	NA	NA	NA	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Morona Santiago"	2	1	"Mujer"	4	16	14	2012	3	1	"T510"	"T51"	19	214	285	"Santiago"	"1401"	NA	NA	NA	NA	1	16	3	NA	3	NA	1	5	NA	4	2	1
+"El Oro"	2	1	"Mujer"	4	15	7	2012	3	1	"T510"	"T51"	19	214	285	"Machala"	"701"	NA	NA	NA	NA	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Azuay"	2	1	"Hombre"	4	14	1	2012	3	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	14	3	NA	1	NA	1	4	NA	3	5	2
+"Guayas"	5	1	"Hombre"	4	14	9	2012	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Morona Santiago"	1	1	"Mujer"	4	13	14	2012	3	1	"T519"	"T51"	19	214	285	"Limón Indanza"	"1405"	NA	NA	NA	NA	1	13	3	NA	3	NA	1	4	NA	3	3	1
+"Azuay"	2	1	"Mujer"	4	12	1	2012	3	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	12	2	NA	1	NA	1	4	NA	3	5	2
+"Azuay"	2	1	"Mujer"	4	12	1	2012	3	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	12	2	NA	1	NA	1	4	NA	3	5	2
+"Galápagos"	2	1	"Hombre"	4	65	20	2013	3	1	"T519"	"T51"	19	214	285	"San Cristóbal"	"2001"	NA	NA	NA	NA	1	65	6	NA	4	NA	1	15	NA	14	1	1
+"El Oro"	12	2	"Hombre"	4	61	7	2013	3	1	"T519"	"T51"	19	214	285	"Portovelo"	"710"	NA	NA	NA	NA	1	61	5	NA	2	NA	1	14	NA	13	1	1
+"Los Ríos"	2	1	"Hombre"	4	59	12	2013	3	1	"T511"	"T51"	19	214	285	"Babahoyo"	"1201"	NA	NA	NA	NA	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Guayas"	12	3	"Hombre"	4	52	9	2013	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Guayas"	2	1	"Hombre"	4	46	9	2013	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	46	5	NA	2	NA	1	11	NA	10	1	1
+"Los Ríos"	2	1	"Hombre"	4	37	2	2013	3	1	"T511"	"T51"	19	214	285	"Chillanes"	"1201"	NA	NA	NA	NA	1	37	4	NA	1	NA	1	9	NA	8	5	2
+"Guayas"	3	1	"Hombre"	4	32	2	2013	3	1	"T511"	"T51"	19	214	285	"Chillanes"	"901"	NA	NA	NA	NA	1	32	4	NA	1	NA	1	8	NA	7	5	2
+"Chimborazo"	2	1	"Hombre"	4	31	6	2013	3	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	NA	NA	NA	NA	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Los Ríos"	2	1	"Hombre"	4	28	2	2013	3	1	"T511"	"T51"	19	214	285	"San Miguel"	"1201"	NA	NA	NA	NA	1	28	4	NA	1	NA	1	7	NA	6	7	3
+"Pichincha"	2	1	"Mujer"	4	28	17	2013	3	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Guayas"	12	2	"Hombre"	4	19	9	2013	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Napo"	2	1	"Mujer"	4	16	15	2013	3	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	16	3	NA	3	NA	1	5	NA	4	2	1
+"Pichincha"	12	2	"Mujer"	4	16	17	2013	3	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	5	1	"Mujer"	4	2	9	2013	3	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	2	1	NA	2	NA	1	2	NA	1	1	1
+"Guayas"	2	1	"Hombre"	4	52	9	2014	3	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	NA	NA	NA	"Ignorado/a"	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Morona Santiago"	1	1	"Hombre"	4	45	14	2014	3	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	NA	NA	NA	"Mestizo/a"	1	45	5	NA	3	NA	1	11	NA	10	2	1
+"Bolívar"	1	1	"Hombre"	4	40	2	2014	3	1	"T519"	"T51"	19	214	285	"Chillanes"	"202"	NA	NA	NA	"Mestizo/a"	1	40	5	NA	1	NA	1	9	NA	9	5	2
+"Los Ríos"	2	1	"Hombre"	4	39	12	2014	3	1	"T519"	"T51"	19	214	285	"Montalvo"	"1201"	NA	NA	NA	"Mestizo/a"	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	37	19	2014	3	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	NA	NA	NA	"Mestizo/a"	1	37	4	NA	3	NA	1	9	NA	8	2	1
+"Guayas"	2	1	"Hombre"	4	24	9	2014	3	1	"T519"	"T51"	19	214	285	"Alfredo Baquerizo Moreno (Juján)"	"901"	NA	NA	NA	"Mestizo/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Napo"	1	1	"Mujer"	4	19	15	2014	3	1	"T511"	"T51"	19	214	285	"El Chaco"	"1507"	NA	NA	NA	"Mestizo/a"	1	19	3	NA	3	NA	1	5	NA	4	4	2
+"Los Ríos"	1	1	"Mujer"	4	17	12	2014	3	1	"T511"	"T51"	19	214	285	"Buena Fe"	"1205"	NA	NA	NA	"Mestizo/a"	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Azuay"	2	1	"Mujer"	4	16	1	2014	3	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	5	2
+"Pichincha"	11	1	"Hombre"	4	14	17	2014	3	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	5	1	"Mujer"	4	1	9	2014	3	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Los Ríos"	1	1	"Mujer"	4	63	12	2015	3	1	"T519"	"T51"	19	214	285	"Valencia"	"1205"	1	1	27	"Mestizo/a"	1	63	5	NA	2	NA	1	14	NA	13	1	1
+"Chimborazo"	2	1	"Hombre"	4	61	6	2015	3	1	"T512"	"T51"	19	214	285	"Riobamba"	"601"	1	1	14	"Mestizo/a"	1	61	5	NA	1	NA	1	14	NA	13	6	3
+"Azuay"	1	1	"Hombre"	4	58	1	2015	3	1	"T519"	"T51"	19	214	285	"Pucará"	"108"	1	1	27	"Mestizo/a"	1	58	5	NA	1	NA	1	13	NA	12	8	4
+"Pichincha"	2	1	"Mujer"	4	56	17	2015	3	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Ignorado/a"	1	56	5	NA	1	NA	1	13	NA	12	6	3
+"Manabí"	2	1	"Hombre"	4	45	13	2015	3	1	"T519"	"T51"	19	214	285	"Portoviejo"	"1301"	1	1	49	"Mestizo/a"	1	45	5	NA	2	NA	1	11	NA	10	1	1
+"Los Ríos"	1	1	"Hombre"	4	42	12	2015	3	1	"T519"	"T51"	19	214	285	"Vinces"	"1208"	1	1	27	"Mestizo/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Guayas"	2	1	"Hombre"	4	40	9	2015	3	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	9	"Mestizo/a"	1	40	5	NA	2	NA	1	9	NA	9	1	1
+"Pichincha"	2	2	"Hombre"	4	34	17	2015	3	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	11	1	"Hombre"	4	21	17	2015	3	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	2	1	"Mujer"	4	19	18	2015	3	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"El Oro"	12	2	"Hombre"	4	19	7	2015	3	1	"T510"	"T51"	19	214	285	"Huaquillas"	"701"	1	1	27	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Morona Santiago"	1	1	"Hombre"	4	18	14	2015	3	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	1	2	49	"Indígena"	1	18	3	NA	3	NA	1	5	NA	4	2	1
+"Guayas"	5	1	"Hombre"	4	14	9	2015	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	5	1	"Mujer"	4	13	9	2015	3	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	13	3	NA	2	NA	1	4	NA	3	1	1
+"Tungurahua"	2	1	"Hombre"	4	12	23	2015	3	1	"T511"	"T51"	19	214	285	"Santo Domingo"	"1801"	1	1	41	"Mestizo/a"	1	12	2	NA	2	NA	1	4	NA	3	2	1
+"Guayas"	5	1	"Mujer"	4	3	9	2015	3	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	17	"Mestizo/a"	1	3	1	NA	2	NA	1	2	NA	1	1	1
+"Morona Santiago"	1	1	"Hombre"	4	39	14	2016	3	1	"T510"	"T51"	19	214	285	"Santiago"	"1405"	1	1	27	"Indígena"	1	39	4	NA	3	NA	1	9	NA	8	2	1
+"Santo Domingo de los Tsáchilas"	2	1	"Hombre"	4	35	8	2016	3	1	"T519"	"T51"	19	214	285	"Esmeraldas"	"2301"	1	1	27	"Ignorado/a"	1	35	4	NA	2	NA	1	9	NA	8	1	1
+"Cañar"	2	1	"Hombre"	4	33	3	2016	3	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Bolívar"	2	1	"Hombre"	4	26	2	2016	3	1	"T519"	"T51"	19	214	285	"Guaranda"	"201"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Loja"	2	1	"Hombre"	4	23	11	2016	3	1	"T511"	"T51"	19	214	285	"Loja"	"1101"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	4	2
+"Manabí"	2	1	"Hombre"	4	19	13	2016	3	1	"T511"	"T51"	19	214	285	"El Carmen"	"1301"	1	1	49	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Los Ríos"	2	1	"Hombre"	4	14	12	2016	3	1	"T519"	"T51"	19	214	285	"Babahoyo"	"1201"	1	2	41	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Carchi"	2	1	"Hombre"	4	6	4	2016	3	1	"T511"	"T51"	19	214	285	"Tulcán"	"401"	1	1	41	"Mestizo/a"	1	6	2	NA	1	NA	1	3	NA	2	6	3
+"Santa Elena"	1	1	"Hombre"	4	2	24	2016	3	1	"T519"	"T51"	19	214	285	"Salinas"	"2403"	1	1	41	"Mestizo/a"	1	2	1	NA	2	NA	1	2	NA	1	1	1
+"Chimborazo"	2	1	"Hombre"	4	22	6	2017	3	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	2	44	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Azuay"	2	1	"Hombre"	4	33	1	2017	3	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	5	2
+"Azuay"	2	1	"Mujer"	4	15	1	2017	3	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	41	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Cotopaxi"	2	1	"Hombre"	4	16	5	2017	3	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Indígena"	1	16	3	NA	1	NA	1	5	NA	4	8	4
+"Tungurahua"	2	1	"Mujer"	4	15	18	2017	3	1	"T519"	"T51"	19	214	285	"Baños de Agua Santa"	"1801"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	4	2
+"Zamora Chinchipe"	2	1	"Hombre"	4	40	19	2017	3	1	"T511"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Mestizo/a"	1	40	5	NA	3	NA	1	9	NA	9	2	1
+"Loja"	2	1	"Hombre"	4	20	11	2017	3	1	"T519"	"T51"	19	214	285	"Loja"	"1101"	1	1	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	4	2
+"Cañar"	2	1	"Hombre"	4	39	3	2017	3	1	"T519"	"T51"	19	214	285	"Biblián"	"301"	1	1	27	"Mestizo/a"	1	39	4	NA	1	NA	1	9	NA	8	6	3
+"Cañar"	2	1	"Hombre"	4	14	3	2017	3	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Los Ríos"	12	2	"Mujer"	4	16	12	2017	3	1	"T519"	"T51"	19	214	285	"Quevedo"	"1205"	1	1	27	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	2	1	"Hombre"	4	33	9	2017	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Chimborazo"	1	1	"Hombre"	4	56	6	2017	3	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	2	27	"Mestizo/a"	1	56	5	NA	1	NA	1	13	NA	12	6	3
+"Chimborazo"	1	1	"Hombre"	4	58	6	2017	3	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	1	27	"Mestizo/a"	1	58	5	NA	1	NA	1	13	NA	12	6	3
+"Chimborazo"	1	1	"Hombre"	4	64	6	2017	3	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	1	1	"Mestizo/a"	1	64	5	NA	1	NA	1	14	NA	13	6	3
+"Pichincha"	11	1	"Hombre"	4	59	17	2017	3	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	59	5	NA	1	NA	1	13	NA	12	6	3
+"Pichincha"	11	1	"Hombre"	4	47	17	2017	3	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	47	5	NA	1	NA	1	11	NA	10	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	23	19	2017	3	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Indígena"	1	23	4	NA	3	NA	1	6	NA	5	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	46	19	2017	3	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	46	5	NA	3	NA	1	11	NA	10	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	13	19	2017	3	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	41	"Mestizo/a"	1	13	3	NA	3	NA	1	4	NA	3	2	1
+"Pichincha"	11	1	"Hombre"	4	34	17	2017	3	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Morona Santiago"	1	1	"Hombre"	4	51	14	2017	3	1	"T519"	"T51"	19	214	285	"Limón Indanza"	"1403"	1	1	27	"Mestizo/a"	1	51	5	NA	3	NA	1	12	NA	11	3	1
+"Los Ríos"	2	1	"Hombre"	4	2	12	2018	3	1	"T511"	"T51"	19	214	285	"Babahoyo"	"1201"	1	1	41	"Mestizo/a"	1	2	1	NA	2	NA	1	2	NA	1	1	1
+"Pichincha"	2	2	"Hombre"	4	15	17	2018	3	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	2	"Hombre"	4	15	17	2018	3	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	60	19	2018	3	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	60	5	NA	3	NA	1	14	NA	13	2	1
+"Chimborazo"	2	1	"Hombre"	4	24	6	2018	3	1	"T519"	"T51"	19	214	285	"Guano"	"601"	1	1	27	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	9	4
+"Chimborazo"	2	1	"Hombre"	4	21	6	2018	3	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	1	1	"Mujer"	4	24	18	2018	3	1	"T519"	"T51"	19	214	285	"San Pedro de Pelileo"	"1807"	1	1	27	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	6	3
+"Cotopaxi"	2	1	"Hombre"	4	34	5	2018	3	1	"T511"	"T51"	19	214	285	"Pujilí"	"501"	1	2	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Tungurahua"	1	3	"Hombre"	4	26	18	2018	3	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Guayas"	1	2	"Mujer"	4	23	9	2018	3	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	2	"Mestizo/a"	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Cañar"	2	1	"Hombre"	4	24	3	2018	3	1	"T519"	"T51"	19	214	285	"Biblián"	"301"	1	1	27	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	6	3
+"Zamora Chinchipe"	1	1	"Hombre"	4	53	19	2018	3	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	1	27	"Mestizo/a"	1	53	5	NA	3	NA	1	12	NA	11	2	1
+"Zamora Chinchipe"	1	1	"Hombre"	4	44	19	2018	3	1	"T519"	"T51"	19	214	285	"Nangaritza"	"1905"	1	1	27	"Mestizo/a"	1	44	5	NA	3	NA	1	10	NA	9	3	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	57	19	2018	3	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Mestizo/a"	1	57	5	NA	3	NA	1	13	NA	12	2	1
+"Pichincha"	2	1	"Mujer"	4	56	17	2018	3	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	56	5	NA	1	NA	1	13	NA	12	6	3
+"Cotopaxi"	2	1	"Hombre"	4	44	5	2018	3	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Afroecuatoriano/a Afrodescendiente"	1	44	5	NA	1	NA	1	10	NA	9	8	4
+"Azuay"	1	1	"Mujer"	4	50	1	2018	3	1	"T510"	"T51"	19	214	285	"San Fernando"	"102"	1	1	27	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	6	3
+"Tungurahua"	1	1	"Hombre"	4	42	18	2018	3	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Orellana"	1	1	"Hombre"	4	15	22	2018	3	1	"T519"	"T51"	19	214	285	"Aguarico"	"2202"	1	1	27	"Indígena"	1	15	3	NA	3	NA	1	5	NA	4	1	1
+"Cotopaxi"	2	1	"Hombre"	4	27	5	2018	3	1	"T519"	"T51"	19	214	285	"Pujilí"	"501"	1	2	27	"Indígena"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	2	1	"Mujer"	4	15	17	2018	3	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	41	"Otro/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Los Ríos"	12	2	"Mujer"	4	98	12	2011	2	1	"T519"	"T51"	19	214	285	"Buena Fe"	"1205"	NA	NA	NA	NA	1	98	6	NA	2	NA	1	18	NA	20	1	1
+"Napo"	2	1	"Hombre"	4	77	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	77	6	NA	3	NA	1	17	NA	16	2	1
+"Pichincha"	2	1	"Hombre"	4	69	23	2011	2	1	"T510"	"T51"	19	214	285	"Santo Domingo"	"1701"	NA	NA	NA	NA	1	69	6	NA	2	NA	1	15	NA	14	2	1
+"Tungurahua"	2	1	"Mujer"	4	64	2	2011	2	1	"T511"	"T51"	19	214	285	"Guaranda"	"1801"	NA	NA	NA	NA	1	64	5	NA	1	NA	1	14	NA	13	6	3
+"Guayas"	3	1	"Hombre"	4	59	12	2011	2	1	"T511"	"T51"	19	214	285	"Babahoyo"	"901"	NA	NA	NA	NA	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Guayas"	3	1	"Hombre"	4	59	12	2011	2	1	"T511"	"T51"	19	214	285	"Babahoyo"	"901"	NA	NA	NA	NA	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Guayas"	2	1	"Hombre"	4	57	9	2011	2	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	57	5	NA	2	NA	1	13	NA	12	1	1
+"Napo"	2	1	"Mujer"	4	56	15	2011	2	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	56	5	NA	3	NA	1	13	NA	12	2	1
+"Guayas"	2	1	"Hombre"	4	54	9	2011	2	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	54	5	NA	2	NA	1	12	NA	11	1	1
+"Cañar"	1	1	"Hombre"	4	53	3	2011	2	1	"T511"	"T51"	19	214	285	"La Troncal"	"304"	NA	NA	NA	NA	1	53	5	NA	1	NA	1	12	NA	11	1	1
+"Guayas"	3	1	"Hombre"	4	46	9	2011	2	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	46	5	NA	2	NA	1	11	NA	10	1	1
+"Guayas"	2	1	"Hombre"	4	46	9	2011	2	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	46	5	NA	2	NA	1	11	NA	10	1	1
+"Napo"	2	1	"Hombre"	4	46	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	46	5	NA	3	NA	1	11	NA	10	2	1
+"Esmeraldas"	1	1	"Hombre"	4	41	8	2011	2	1	"T510"	"T51"	19	214	285	"Quinindé"	"804"	NA	NA	NA	NA	1	41	5	NA	2	NA	1	10	NA	9	1	1
+"Guayas"	3	1	"Hombre"	4	38	12	2011	2	1	"T511"	"T51"	19	214	285	"Urdaneta"	"901"	NA	NA	NA	NA	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Azuay"	2	1	"Hombre"	4	33	1	2011	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	33	4	NA	1	NA	1	8	NA	7	5	2
+"Napo"	1	1	"Hombre"	4	32	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	32	4	NA	3	NA	1	8	NA	7	2	1
+"Napo"	2	1	"Mujer"	4	30	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	30	4	NA	3	NA	1	8	NA	7	2	1
+"Napo"	2	1	"Hombre"	4	28	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	28	4	NA	3	NA	1	7	NA	6	2	1
+"Napo"	2	1	"Hombre"	4	27	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	27	4	NA	3	NA	1	7	NA	6	2	1
+"Napo"	2	1	"Hombre"	4	26	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	26	4	NA	3	NA	1	7	NA	6	2	1
+"Napo"	2	1	"Hombre"	4	25	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	25	4	NA	3	NA	1	7	NA	6	2	1
+"Guayas"	3	1	"Hombre"	4	24	9	2011	2	1	"T511"	"T51"	19	214	285	"Milagro"	"901"	NA	NA	NA	NA	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Guayas"	3	1	"Hombre"	4	22	9	2011	2	1	"T511"	"T51"	19	214	285	"Milagro"	"901"	NA	NA	NA	NA	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Napo"	2	1	"Hombre"	4	22	15	2011	2	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	22	4	NA	3	NA	1	6	NA	5	2	1
+"Tungurahua"	2	1	"Hombre"	4	22	18	2011	2	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Napo"	2	1	"Hombre"	4	21	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Napo"	2	1	"Hombre"	4	21	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Napo"	2	1	"Hombre"	4	21	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Napo"	2	1	"Hombre"	4	16	15	2011	2	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	16	3	NA	3	NA	1	5	NA	4	2	1
+"Azuay"	2	1	"Mujer"	4	15	1	2011	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Guayas"	5	1	"Mujer"	4	15	9	2011	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Azuay"	2	1	"Hombre"	4	14	1	2011	2	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	14	3	NA	1	NA	1	4	NA	3	5	2
+"Guayas"	5	1	"Hombre"	4	14	9	2011	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	5	1	"Hombre"	4	5	9	2011	2	1	"T518"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	5	1	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	5	1	"Mujer"	4	4	9	2011	2	1	"T519"	"T51"	19	214	285	"Daule"	"901"	NA	NA	NA	NA	1	4	1	NA	2	NA	1	2	NA	1	1	1
+"El Oro"	2	1	"Hombre"	4	65	1	2012	2	3	"T519"	"T51"	19	214	285	"Cuenca"	"701"	NA	NA	NA	NA	1	65	6	NA	1	NA	2	15	NA	14	5	2
+"Pichincha"	12	2	"Mujer"	4	60	17	2012	2	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	60	5	NA	1	NA	1	14	NA	13	6	3
+"Pichincha"	12	2	"Mujer"	4	60	17	2012	2	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	60	5	NA	1	NA	1	14	NA	13	6	3
+"Azuay"	12	2	"Mujer"	4	53	1	2012	2	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	53	5	NA	1	NA	1	12	NA	11	5	2
+"Guayas"	2	1	"Mujer"	4	52	9	2012	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Sucumbíos"	12	2	"Hombre"	4	37	21	2012	2	1	"T510"	"T51"	19	214	285	"Shushufindi"	"2101"	NA	NA	NA	NA	1	37	4	NA	3	NA	1	9	NA	8	1	1
+"Guayas"	1	1	"Hombre"	4	32	9	2012	2	1	"T510"	"T51"	19	214	285	"Daule"	"906"	NA	NA	NA	NA	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Azuay"	1	1	"Hombre"	4	30	1	2012	2	1	"T513"	"T51"	19	214	285	"Sigsig"	"109"	NA	NA	NA	NA	1	30	4	NA	1	NA	1	8	NA	7	6	3
+"El Oro"	2	1	"Mujer"	4	29	7	2012	2	1	"T519"	"T51"	19	214	285	"Machala"	"701"	NA	NA	NA	NA	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Tungurahua"	2	1	"Mujer"	4	22	18	2012	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	2	3	"Mujer"	4	22	18	2012	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Los Ríos"	2	1	"Mujer"	4	18	12	2012	2	1	"T519"	"T51"	19	214	285	"Babahoyo"	"1201"	NA	NA	NA	NA	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Azuay"	2	1	"Mujer"	4	15	1	2012	2	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Carchi"	2	1	"Mujer"	4	15	4	2012	2	1	"T511"	"T51"	19	214	285	"Tulcán"	"401"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	1	1	"Mujer"	4	14	18	2012	2	1	"T519"	"T51"	19	214	285	"San Pedro de Pelileo"	"1807"	NA	NA	NA	NA	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	5	1	"Mujer"	4	14	9	2012	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Azuay"	2	1	"Hombre"	4	13	1	2012	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	5	2
+"Zamora Chinchipe"	1	1	"Hombre"	4	81	19	2013	2	1	"T519"	"T51"	19	214	285	"Centinela del Cóndor"	"1905"	NA	NA	NA	NA	1	81	6	NA	3	NA	1	18	NA	17	3	1
+"Santa Elena"	1	1	"Hombre"	4	70	24	2013	2	1	"T519"	"T51"	19	214	285	"Salinas"	"2403"	NA	NA	NA	NA	1	70	6	NA	2	NA	1	16	NA	15	1	1
+"Santa Elena"	1	1	"Hombre"	4	64	24	2013	2	1	"T519"	"T51"	19	214	285	"Salinas"	"2403"	NA	NA	NA	NA	1	64	5	NA	2	NA	1	14	NA	13	1	1
+"Manabí"	1	1	"Hombre"	4	64	13	2013	2	1	"T518"	"T51"	19	214	285	"Portoviejo"	"1302"	NA	NA	NA	NA	1	64	5	NA	2	NA	1	14	NA	13	1	1
+"Manabí"	1	1	"Hombre"	4	59	13	2013	2	1	"T513"	"T51"	19	214	285	"Bolívar"	"1302"	NA	NA	NA	NA	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Zamora Chinchipe"	1	1	"Hombre"	4	55	1	2013	2	1	"T519"	"T51"	19	214	285	"Cuenca"	"1902"	NA	NA	NA	NA	1	55	5	NA	1	NA	1	13	NA	12	5	2
+"Morona Santiago"	2	1	"Hombre"	4	49	14	2013	2	1	"T510"	"T51"	19	214	285	"Morona"	"1401"	NA	NA	NA	NA	1	49	5	NA	3	NA	1	11	NA	10	3	1
+"Imbabura"	1	1	"Hombre"	4	42	10	2013	2	1	"T510"	"T51"	19	214	285	"Otavalo"	"1004"	NA	NA	NA	NA	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Guayas"	1	1	"Hombre"	4	37	9	2013	2	1	"T519"	"T51"	19	214	285	"Balzar"	"904"	NA	NA	NA	NA	1	37	4	NA	2	NA	1	9	NA	8	1	1
+"Manabí"	2	1	"Hombre"	4	37	13	2013	2	1	"T511"	"T51"	19	214	285	"Portoviejo"	"1301"	NA	NA	NA	NA	1	37	4	NA	2	NA	1	9	NA	8	1	1
+"Imbabura"	12	2	"Mujer"	4	35	10	2013	2	1	"T511"	"T51"	19	214	285	"Ibarra"	"1001"	NA	NA	NA	NA	1	35	4	NA	1	NA	1	9	NA	8	5	2
+"Manabí"	1	1	"Mujer"	4	29	13	2013	2	1	"T519"	"T51"	19	214	285	"Bolívar"	"1302"	NA	NA	NA	NA	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Galápagos"	1	1	"Hombre"	4	25	20	2013	2	1	"T519"	"T51"	19	214	285	"Santa Cruz"	"2003"	NA	NA	NA	NA	1	25	4	NA	4	NA	1	7	NA	6	2	1
+"Guayas"	3	1	"Hombre"	4	20	2	2013	2	1	"T511"	"T51"	19	214	285	"Chillanes"	"901"	NA	NA	NA	NA	1	20	3	NA	1	NA	1	6	NA	5	5	2
+"Los Ríos"	1	1	"Hombre"	4	18	12	2013	2	1	"T519"	"T51"	19	214	285	"Quevedo"	"1205"	NA	NA	NA	NA	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Napo"	2	1	"Mujer"	4	15	15	2013	2	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	15	3	NA	3	NA	1	5	NA	4	2	1
+"Azuay"	2	1	"Mujer"	4	13	1	2013	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	5	2
+"Loja"	1	1	"Mujer"	4	13	11	2013	2	1	"T511"	"T51"	19	214	285	"Calvas"	"1102"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	4	2
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	51	23	2014	2	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	NA	NA	NA	"Mestizo/a"	1	51	5	NA	2	NA	1	12	NA	11	2	1
+"Los Ríos"	4	3	"Mujer"	4	38	12	2014	2	1	"T519"	"T51"	19	214	285	"Babahoyo"	"1201"	NA	NA	NA	"Mestizo/a"	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Pichincha"	2	2	"Mujer"	4	36	17	2014	2	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Otro/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Loja"	12	2	"Hombre"	4	34	11	2014	2	1	"T519"	"T51"	19	214	285	"Loja"	"1101"	NA	NA	NA	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	4	2
+"Esmeraldas"	1	1	"Hombre"	4	32	8	2014	2	1	"T519"	"T51"	19	214	285	"Quinindé"	"804"	NA	NA	NA	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	2	2	"Hombre"	4	29	17	2014	2	1	"T510"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	NA	NA	NA	"Ignorado/a"	1	29	4	NA	1	NA	1	7	NA	6	3	1
+"Guayas"	12	2	"Hombre"	4	28	9	2014	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	28	4	NA	2	NA	1	7	NA	6	1	1
+"Tungurahua"	2	1	"Hombre"	4	20	18	2014	2	1	"T518"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	2	1	"Mujer"	4	16	9	2014	2	1	"T518"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Ignorado/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	11	1	"Hombre"	4	15	17	2014	2	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	1	"Hombre"	4	14	17	2014	2	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Tungurahua"	2	1	"Hombre"	4	8	18	2014	2	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	"Mestizo/a"	1	8	2	NA	1	NA	1	3	NA	2	6	3
+"Guayas"	2	1	"Hombre"	4	3	9	2014	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	3	1	NA	2	NA	1	2	NA	1	1	1
+"Guayas"	1	1	"Hombre"	4	60	9	2015	2	1	"T519"	"T51"	19	214	285	"Naranjito"	"912"	1	1	27	"Mestizo/a"	1	60	5	NA	2	NA	1	14	NA	13	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	50	23	2015	2	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	50	5	NA	2	NA	1	12	NA	11	2	1
+"Esmeraldas"	1	1	"Mujer"	4	47	8	2015	2	1	"T519"	"T51"	19	214	285	"Eloy Alfaro"	"802"	2	2	27	"Negro/a"	1	47	5	NA	2	NA	1	11	NA	10	1	1
+"Guayas"	2	3	"Hombre"	4	38	9	2015	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Ignorado/a"	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	35	23	2015	2	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	27	"Mestizo/a"	1	35	4	NA	2	NA	1	9	NA	8	2	1
+"Guayas"	11	1	"Hombre"	4	28	21	2015	2	1	"T519"	"T51"	19	214	285	"Cascales"	"901"	1	1	27	"Otro/a"	1	28	4	NA	3	NA	1	7	NA	6	1	1
+"Manabí"	2	1	"Mujer"	4	26	13	2015	2	1	"T518"	"T51"	19	214	285	"Portoviejo"	"1301"	1	1	49	"Mestizo/a"	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Pichincha"	11	1	"Hombre"	4	25	17	2015	2	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Tungurahua"	2	1	"Mujer"	4	18	18	2015	2	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	1	1	44	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Esmeraldas"	1	1	"Mujer"	4	17	8	2015	2	1	"T519"	"T51"	19	214	285	"Quinindé"	"804"	1	1	27	"Mestizo/a"	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Los Ríos"	1	1	"Hombre"	4	16	12	2015	2	1	"T519"	"T51"	19	214	285	"Baba"	"1202"	1	1	27	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Loja"	12	2	"Mujer"	4	16	11	2015	2	1	"T519"	"T51"	19	214	285	"Loja"	"1101"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	4	2
+"Guayas"	5	1	"Mujer"	4	15	9	2015	2	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	5	1	"Mujer"	4	10	9	2015	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	17	"Mestizo/a"	1	10	2	NA	2	NA	1	4	NA	3	1	1
+"Carchi"	1	1	"Mujer"	4	3	4	2015	2	1	"T519"	"T51"	19	214	285	"Montúfar"	"405"	1	1	41	"Mestizo/a"	1	3	1	NA	1	NA	1	2	NA	1	6	3
+"Cañar"	2	1	"Hombre"	4	61	3	2016	2	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	61	5	NA	1	NA	1	14	NA	13	6	3
+"Guayas"	2	1	"Hombre"	4	55	9	2016	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Otro/a"	1	55	5	NA	2	NA	1	13	NA	12	1	1
+"Tungurahua"	2	1	"Hombre"	4	49	18	2016	2	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	6	3
+"Azuay"	1	1	"Hombre"	4	49	1	2016	2	1	"T519"	"T51"	19	214	285	"San Fernando"	"102"	1	1	27	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	6	3
+"Manabí"	2	1	"Hombre"	4	48	13	2016	2	1	"T518"	"T51"	19	214	285	"Chone"	"1303"	1	1	27	"Mestizo/a"	1	48	5	NA	2	NA	1	11	NA	10	1	1
+"Guayas"	1	1	"Hombre"	4	42	9	2016	2	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	1	1	27	"Mestizo/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Chimborazo"	2	1	"Hombre"	4	42	6	2016	2	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Azuay"	1	1	"Hombre"	4	41	1	2016	2	1	"T519"	"T51"	19	214	285	"Girón"	"102"	1	2	27	"Mestizo/a"	1	41	5	NA	1	NA	1	10	NA	9	5	2
+"Cañar"	2	1	"Hombre"	4	36	3	2016	2	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Cañar"	12	2	"Hombre"	4	36	3	2016	2	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	49	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Azuay"	1	1	"Mujer"	4	33	1	2016	2	1	"T510"	"T51"	19	214	285	"Santa Isabel"	"108"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	4	2
+"Cañar"	2	1	"Hombre"	4	32	3	2016	2	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	6	3
+"Cañar"	2	1	"Hombre"	4	30	3	2016	2	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	29	19	2016	2	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	29	4	NA	3	NA	1	7	NA	6	2	1
+"Cañar"	2	1	"Hombre"	4	27	3	2016	2	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Los Ríos"	12	2	"Hombre"	4	25	12	2016	2	1	"T519"	"T51"	19	214	285	"Buena Fe"	"1210"	1	1	49	"Mestizo/a"	1	25	4	NA	2	NA	1	7	NA	6	1	1
+"Los Ríos"	1	1	"Hombre"	4	24	12	2016	2	1	"T519"	"T51"	19	214	285	"Baba"	"1202"	1	1	27	"Mestizo/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Morona Santiago"	1	1	"Hombre"	4	23	14	2016	2	1	"T519"	"T51"	19	214	285	"Gualaquiza"	"1402"	1	2	27	"Mestizo/a"	1	23	4	NA	3	NA	1	6	NA	5	2	1
+"Morona Santiago"	2	1	"Hombre"	4	21	14	2016	2	1	"T511"	"T51"	19	214	285	"Pablo Sexto"	"1401"	1	1	27	"Indígena"	1	21	4	NA	3	NA	1	6	NA	5	3	1
+"Pichincha"	2	2	"Hombre"	4	15	17	2016	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	2	1	"Hombre"	4	13	18	2016	2	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	1	1	41	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	2	1	"Mujer"	4	12	9	2016	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	12	2	NA	2	NA	1	4	NA	3	1	1
+"Los Ríos"	1	1	"Mujer"	4	10	12	2016	2	1	"T511"	"T51"	19	214	285	"Quevedo"	"1205"	1	1	41	"Mestizo/a"	1	10	2	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	5	3	"Hombre"	4	6	9	2016	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	41	"Mestizo/a"	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	5	1	"Mujer"	4	5	9	2016	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	5	1	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	5	3	"Mujer"	4	5	9	2016	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	5	1	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	5	1	"Mujer"	4	4	9	2016	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	4	1	NA	2	NA	1	2	NA	1	1	1
+"Tungurahua"	1	1	"Hombre"	4	36	18	2017	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Otro/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Azuay"	2	1	"Hombre"	4	15	1	2017	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	41	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Azuay"	2	1	"Hombre"	4	34	1	2017	2	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	1	1	49	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	5	2
+"Chimborazo"	1	1	"Hombre"	4	21	6	2017	2	1	"T511"	"T51"	19	214	285	"Guamote"	"606"	1	2	27	"Indígena"	1	21	4	NA	1	NA	1	6	NA	5	7	3
+"Chimborazo"	1	2	"Hombre"	4	42	6	2017	2	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	49	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Chimborazo"	1	1	"Mujer"	4	2	6	2017	2	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	2	49	"Mestizo/a"	1	2	1	NA	1	NA	1	2	NA	1	6	3
+"Cotopaxi"	1	2	"Hombre"	4	37	5	2017	2	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Indígena"	1	37	4	NA	1	NA	1	9	NA	8	8	4
+"Chimborazo"	5	1	"Mujer"	4	6	6	2017	2	1	"T511"	"T51"	19	214	285	"Riobamba"	"601"	1	2	27	"Indígena"	1	6	2	NA	1	NA	1	3	NA	2	6	3
+"Cotopaxi"	1	1	"Hombre"	4	40	5	2017	2	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	40	5	NA	1	NA	1	9	NA	9	6	3
+"Azuay"	1	1	"Hombre"	4	18	1	2017	2	1	"T519"	"T51"	19	214	285	"Gualaceo"	"103"	1	2	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	5	2
+"Pichincha"	2	2	"Mujer"	4	58	17	2017	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	1	30	"Mestizo/a"	1	58	5	NA	1	NA	1	13	NA	12	6	3
+"Pichincha"	11	1	"Hombre"	4	37	17	2017	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	5	"Ignorado/a"	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	1	2	"Hombre"	4	28	18	2017	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Santa Elena"	2	1	"Hombre"	4	19	24	2017	2	1	"T519"	"T51"	19	214	285	"La Libertad"	"2401"	1	1	27	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	64	19	2017	2	1	"T510"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Mestizo/a"	1	64	5	NA	3	NA	1	14	NA	13	2	1
+"Azuay"	1	1	"Hombre"	4	1	1	2017	2	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	41	"Mestizo/a"	1	1	1	NA	1	NA	1	1	NA	1	5	2
+"Pichincha"	12	2	"Mujer"	4	27	17	2017	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Guayas"	2	1	"Hombre"	4	34	24	2017	2	1	"T519"	"T51"	19	214	285	"Santa Elena"	"901"	1	2	27	"Mestizo/a"	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Napo"	1	1	"Mujer"	4	16	22	2017	2	1	"T519"	"T51"	19	214	285	"La Joya de los Sachas"	"1507"	1	2	27	"Mestizo/a"	1	16	3	NA	3	NA	1	5	NA	4	1	1
+"Pichincha"	12	3	"Mujer"	4	16	17	2017	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Indígena"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	1	1	"Mujer"	4	20	6	2017	2	1	"T519"	"T51"	19	214	285	"Guamote"	"606"	1	2	27	"Indígena"	1	20	3	NA	1	NA	1	6	NA	5	7	3
+"Pichincha"	2	2	"Mujer"	4	5	17	2017	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	41	"Blanco/a"	1	5	1	NA	1	NA	1	3	NA	2	6	3
+"Chimborazo"	1	1	"Hombre"	4	12	6	2017	2	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	2	27	"Mestizo/a"	1	12	2	NA	1	NA	1	4	NA	3	6	3
+"Chimborazo"	1	1	"Hombre"	4	34	6	2017	2	1	"T519"	"T51"	19	214	285	"Alausí"	"605"	1	2	1	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	5	2
+"Morona Santiago"	2	1	"Hombre"	4	35	11	2017	2	1	"T510"	"T51"	19	214	285	"Loja"	"1401"	1	1	27	"Mestizo/a"	1	35	4	NA	1	NA	1	9	NA	8	4	2
+"Cotopaxi"	2	1	"Hombre"	4	13	5	2017	2	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	29	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	8	4
+"Pichincha"	11	1	"Hombre"	4	26	17	2017	2	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Cotopaxi"	1	1	"Hombre"	4	75	5	2017	2	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	75	6	NA	1	NA	1	17	NA	16	6	3
+"Pichincha"	1	3	"Hombre"	4	17	17	2017	2	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	3	1
+"Pichincha"	11	1	"Hombre"	4	52	17	2017	2	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Pichincha"	11	1	"Hombre"	4	35	17	2017	2	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	35	4	NA	1	NA	1	9	NA	8	6	3
+"Azuay"	11	1	"Hombre"	4	15	1	2017	2	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	1	2	41	"Ignorado/a"	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Zamora Chinchipe"	2	1	"Hombre"	4	46	19	2017	2	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	46	5	NA	3	NA	1	11	NA	10	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	41	19	2017	2	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	41	5	NA	3	NA	1	10	NA	9	2	1
+"Cotopaxi"	1	1	"Mujer"	4	73	5	2017	2	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	1	1	27	"Indígena"	1	73	6	NA	1	NA	1	16	NA	15	6	3
+"Los Ríos"	1	1	"Hombre"	4	61	12	2017	2	1	"T510"	"T51"	19	214	285	"Urdaneta"	"1206"	2	2	27	"Mestizo/a"	1	61	5	NA	2	NA	1	14	NA	13	1	1
+"Loja"	1	1	"Mujer"	4	36	11	2017	2	1	"T519"	"T51"	19	214	285	"Saraguro"	"1111"	1	1	27	"Indígena"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Loja"	1	1	"Hombre"	4	41	11	2017	2	1	"T519"	"T51"	19	214	285	"Saraguro"	"1111"	1	1	27	"Indígena"	1	41	5	NA	1	NA	1	10	NA	9	6	3
+"Loja"	1	1	"Hombre"	4	51	11	2017	2	1	"T519"	"T51"	19	214	285	"Saraguro"	"1111"	1	1	27	"Mestizo/a"	1	51	5	NA	1	NA	1	12	NA	11	6	3
+"Loja"	1	1	"Hombre"	4	60	11	2017	2	1	"T519"	"T51"	19	214	285	"Saraguro"	"1111"	1	1	27	"Indígena"	1	60	5	NA	1	NA	1	14	NA	13	6	3
+"Cañar"	2	1	"Mujer"	4	23	3	2017	2	1	"T510"	"T51"	19	214	285	"Biblián"	"301"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Pastaza"	2	1	"Mujer"	4	29	15	2017	2	1	"T510"	"T51"	19	214	285	"Tena"	"1601"	1	2	27	"Mestizo/a"	1	29	4	NA	3	NA	1	7	NA	6	2	1
+"Tungurahua"	2	1	"Mujer"	4	44	18	2017	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	44	5	NA	1	NA	1	10	NA	9	6	3
+"Tungurahua"	2	1	"Mujer"	4	19	18	2017	2	1	"T519"	"T51"	19	214	285	"Santiago de Píllaro"	"1801"	1	1	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	2	1	"Hombre"	4	36	18	2017	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	2	1	"Mujer"	4	16	18	2017	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Indígena"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	11	1	"Hombre"	4	28	17	2017	2	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	2	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Chimborazo"	1	2	"Hombre"	4	47	6	2018	2	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	47	5	NA	1	NA	1	11	NA	10	6	3
+"Manabí"	1	1	"Hombre"	4	14	13	2018	2	1	"T518"	"T51"	19	214	285	"Flavio Alfaro"	"1305"	1	2	41	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Bolívar"	1	1	"Mujer"	4	22	2	2018	2	1	"T519"	"T51"	19	214	285	"Chillanes"	"202"	1	1	27	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	5	2
+"Azuay"	12	2	"Hombre"	4	75	1	2018	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	25	"Mestizo/a"	1	75	6	NA	1	NA	1	17	NA	16	5	2
+"Azuay"	12	2	"Hombre"	4	58	1	2018	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	2	2	"Mestizo/a"	1	58	5	NA	1	NA	1	13	NA	12	5	2
+"Zamora Chinchipe"	2	1	"Mujer"	4	20	19	2018	2	1	"T510"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	20	3	NA	3	NA	1	6	NA	5	2	1
+"Pichincha"	2	2	"Hombre"	4	9	17	2018	2	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	2	1	41	"Mestizo/a"	1	9	2	NA	1	NA	1	3	NA	2	6	3
+"El Oro"	1	1	"Hombre"	4	18	7	2018	2	1	"T510"	"T51"	19	214	285	"Las Lajas"	"702"	1	1	27	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Morona Santiago"	2	1	"Mujer"	4	14	14	2018	2	1	"T519"	"T51"	19	214	285	"Morona"	"1401"	1	1	41	"Mestizo/a"	1	14	3	NA	3	NA	1	4	NA	3	3	1
+"Cotopaxi"	12	2	"Hombre"	4	22	5	2018	2	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	49	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	8	4
+"Guayas"	2	3	"Hombre"	4	59	9	2018	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Ignorado/a"	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Esmeraldas"	1	1	"Hombre"	4	51	8	2018	2	1	"T519"	"T51"	19	214	285	"San Lorenzo"	"805"	1	1	27	"Afroecuatoriano/a Afrodescendiente"	1	51	5	NA	2	NA	1	12	NA	11	1	1
+"Sucumbíos"	1	1	"Hombre"	4	26	21	2018	2	1	"T519"	"T51"	19	214	285	"Shushufindi"	"2104"	1	1	27	"Mestizo/a"	1	26	4	NA	3	NA	1	7	NA	6	1	1
+"Chimborazo"	1	1	"Mujer"	4	16	6	2018	2	1	"T519"	"T51"	19	214	285	"Alausí"	"602"	1	1	27	"Indígena"	1	16	3	NA	1	NA	1	5	NA	4	5	2
+"Tungurahua"	1	3	"Hombre"	4	23	18	2018	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	12	2	"Hombre"	4	56	5	2018	2	1	"T519"	"T51"	19	214	285	"Latacunga"	"1801"	1	1	27	"Mestizo/a"	1	56	5	NA	1	NA	1	13	NA	12	8	4
+"Chimborazo"	2	1	"Mujer"	4	12	6	2018	2	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	1	41	"Mestizo/a"	1	12	2	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	2	1	"Hombre"	4	42	17	2018	2	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Chimborazo"	1	2	"Hombre"	4	50	6	2018	2	1	"T519"	"T51"	19	214	285	"Guano"	"601"	1	1	27	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	9	4
+"Pichincha"	12	2	"Hombre"	4	42	17	2018	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	2	27	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Azuay"	11	1	"Mujer"	4	29	1	2018	2	1	"T513"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Ignorado/a"	1	29	4	NA	1	NA	1	7	NA	6	5	2
+"Guayas"	2	1	"Hombre"	4	54	9	2018	2	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	54	5	NA	2	NA	1	12	NA	11	1	1
+"Azuay"	2	1	"Hombre"	4	5	1	2018	2	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	2	41	"Mestizo/a"	1	5	1	NA	1	NA	1	3	NA	2	5	2
+"Cañar"	2	1	"Hombre"	4	20	3	2018	2	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Zamora Chinchipe"	1	1	"Hombre"	4	53	19	2018	2	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	1	27	"Mestizo/a"	1	53	5	NA	3	NA	1	12	NA	11	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	50	19	2018	2	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Mestizo/a"	1	50	5	NA	3	NA	1	12	NA	11	2	1
+"Morona Santiago"	1	1	"Hombre"	4	21	14	2018	2	1	"T519"	"T51"	19	214	285	"Limón Indanza"	"1403"	1	1	27	"Mestizo/a"	1	21	4	NA	3	NA	1	6	NA	5	3	1
+"Los Ríos"	32	2	"Hombre"	4	40	2	2018	2	1	"T519"	"T51"	19	214	285	"Caluma"	"1207"	1	1	25	"Mestizo/a"	1	40	5	NA	1	NA	1	9	NA	9	1	1
+"Morona Santiago"	1	1	"Hombre"	4	63	14	2018	2	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	1	2	27	"Indígena"	1	63	5	NA	3	NA	1	14	NA	13	2	1
+"Manabí"	2	1	"Mujer"	4	14	13	2018	2	1	"T519"	"T51"	19	214	285	"Portoviejo"	"1308"	1	1	41	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"El Oro"	1	1	"Hombre"	4	17	7	2018	2	1	"T519"	"T51"	19	214	285	"Piñas"	"710"	1	1	27	"Mestizo/a"	1	17	3	NA	2	NA	1	5	NA	4	2	1
+"Tungurahua"	1	3	"Mujer"	4	8	18	2018	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	8	2	NA	1	NA	1	3	NA	2	6	3
+"Tungurahua"	1	2	"Hombre"	4	49	18	2018	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	6	3
+"Cotopaxi"	1	2	"Hombre"	4	43	5	2018	2	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Mestizo/a"	1	43	5	NA	1	NA	1	10	NA	9	8	4
+"Tungurahua"	2	1	"Mujer"	4	14	18	2018	2	1	"T519"	"T51"	19	214	285	"San Pedro de Pelileo"	"1801"	1	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Chimborazo"	1	1	"Hombre"	4	33	6	2018	2	1	"T519"	"T51"	19	214	285	"Alausí"	"602"	1	2	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	5	2
+"Cotopaxi"	2	1	"Hombre"	4	52	5	2018	2	1	"T519"	"T51"	19	214	285	"Salcedo"	"501"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	8	4
+"Tungurahua"	1	2	"Hombre"	4	46	18	2018	2	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	46	5	NA	1	NA	1	11	NA	10	6	3
+"Pichincha"	1	1	"Hombre"	4	52	17	2018	2	1	"T519"	"T51"	19	214	285	"Mejía"	"1703"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Zamora Chinchipe"	1	1	"Hombre"	4	53	19	2018	2	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	1	27	"Mestizo/a"	1	53	5	NA	3	NA	1	12	NA	11	2	1
+"Zamora Chinchipe"	1	1	"Mujer"	4	27	19	2018	2	1	"T519"	"T51"	19	214	285	"Centinela del Cóndor"	"1905"	1	2	27	"Mestizo/a"	1	27	4	NA	3	NA	1	7	NA	6	3	1
+"Loja"	1	1	"Mujer"	4	12	11	2018	2	1	"T519"	"T51"	19	214	285	"Espíndola"	"1106"	1	1	41	"Mestizo/a"	1	12	2	NA	1	NA	1	4	NA	3	4	2
+"Azuay"	1	1	"Mujer"	4	15	1	2018	2	1	"T519"	"T51"	19	214	285	"Santa Isabel"	"108"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	4	2
+"Azuay"	1	1	"Mujer"	4	23	1	2018	2	1	"T519"	"T51"	19	214	285	"Gualaceo"	"103"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	5	2
+"Cotopaxi"	1	1	"Hombre"	4	71	5	2018	2	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	71	6	NA	1	NA	1	16	NA	15	6	3
+"Carchi"	1	1	"Hombre"	4	34	4	2018	2	1	"T510"	"T51"	19	214	285	"Montúfar"	"405"	1	1	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Azuay"	2	2	"Hombre"	4	3	1	2018	2	1	"T512"	"T51"	19	214	285	"Cuenca"	"101"	1	2	41	"Mestizo/a"	1	3	1	NA	1	NA	1	2	NA	1	5	2
+"Pichincha"	2	2	"Hombre"	4	16	17	2018	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	2	"Hombre"	4	17	17	2018	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	1	27	"Otro/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	1	"Mujer"	4	11	17	2018	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	41	"Mestizo/a"	1	11	2	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	2	1	"Mujer"	4	15	17	2018	2	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Ignorado/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	2	1	"Hombre"	4	14	6	2018	2	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	2	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Cotopaxi"	2	1	"Hombre"	4	21	5	2018	2	1	"T519"	"T51"	19	214	285	"Saquisilí"	"501"	1	1	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	8	4
+"Napo"	2	1	"Hombre"	4	77	15	2011	1	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	77	6	NA	3	NA	1	17	NA	16	2	1
+"Guayas"	2	1	"Hombre"	4	72	12	2011	1	2	"T511"	"T51"	19	214	285	"Puebloviejo"	"901"	NA	NA	NA	NA	1	72	6	NA	2	NA	2	16	NA	15	1	1
+"Napo"	2	1	"Mujer"	4	72	15	2011	1	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	72	6	NA	3	NA	1	16	NA	15	2	1
+"El Oro"	1	1	"Hombre"	4	65	7	2011	1	1	"T519"	"T51"	19	214	285	"Zaruma"	"713"	NA	NA	NA	NA	1	65	6	NA	2	NA	1	15	NA	14	3	1
+"Pichincha"	12	2	"Mujer"	4	64	17	2011	1	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	64	5	NA	1	NA	1	14	NA	13	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	63	19	2011	1	1	"T510"	"T51"	19	214	285	"Zamora"	"1901"	NA	NA	NA	NA	1	63	5	NA	3	NA	1	14	NA	13	2	1
+"Cañar"	2	1	"Hombre"	4	58	3	2011	1	1	"T510"	"T51"	19	214	285	"Cañar"	"301"	NA	NA	NA	NA	1	58	5	NA	1	NA	1	13	NA	12	5	2
+"Manabí"	1	1	"Hombre"	4	57	13	2011	1	1	"T510"	"T51"	19	214	285	"Manta"	"1308"	NA	NA	NA	NA	1	57	5	NA	2	NA	1	13	NA	12	1	1
+"Napo"	2	1	"Hombre"	4	56	8	2011	1	1	"T511"	"T51"	19	214	285	"Muisne"	"1501"	NA	NA	NA	NA	1	56	5	NA	2	NA	1	13	NA	12	1	1
+"Manabí"	1	1	"Hombre"	4	52	9	2011	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"1302"	NA	NA	NA	NA	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Napo"	2	1	"Hombre"	4	51	8	2011	1	1	"T511"	"T51"	19	214	285	"Muisne"	"1501"	NA	NA	NA	NA	1	51	5	NA	2	NA	1	12	NA	11	1	1
+"Bolívar"	1	1	"Hombre"	4	50	2	2011	1	1	"T511"	"T51"	19	214	285	"San Miguel"	"205"	NA	NA	NA	NA	1	50	5	NA	1	NA	1	12	NA	11	7	3
+"Napo"	1	1	"Hombre"	4	50	8	2011	1	1	"T511"	"T51"	19	214	285	"Muisne"	"1503"	NA	NA	NA	NA	1	50	5	NA	2	NA	1	12	NA	11	1	1
+"Tungurahua"	2	2	"Hombre"	4	50	18	2011	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	50	5	NA	1	NA	1	12	NA	11	6	3
+"Napo"	1	1	"Hombre"	4	48	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	48	5	NA	3	NA	1	11	NA	10	2	1
+"Tungurahua"	2	1	"Hombre"	4	47	18	2011	1	2	"T511"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	47	5	NA	1	NA	2	11	NA	10	6	3
+"Los Ríos"	12	2	"Mujer"	4	46	12	2011	1	1	"T511"	"T51"	19	214	285	"Quevedo"	"1205"	NA	NA	NA	NA	1	46	5	NA	2	NA	1	11	NA	10	1	1
+"Imbabura"	1	1	"Hombre"	4	45	10	2011	1	1	"T511"	"T51"	19	214	285	"Cotacachi"	"1003"	NA	NA	NA	NA	1	45	5	NA	1	NA	1	11	NA	10	5	2
+"Imbabura"	1	1	"Hombre"	4	45	10	2011	1	1	"T510"	"T51"	19	214	285	"Cotacachi"	"1003"	NA	NA	NA	NA	1	45	5	NA	1	NA	1	11	NA	10	5	2
+"Napo"	1	1	"Mujer"	4	41	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	41	5	NA	3	NA	1	10	NA	9	2	1
+"Tungurahua"	2	1	"Hombre"	4	40	18	2011	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	40	5	NA	1	NA	1	9	NA	9	6	3
+"Napo"	2	1	"Hombre"	4	39	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	39	4	NA	3	NA	1	9	NA	8	2	1
+"Guayas"	2	1	"Hombre"	4	39	9	2011	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	3	1	"Hombre"	4	36	9	2011	1	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Napo"	2	1	"Hombre"	4	36	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	36	4	NA	3	NA	1	9	NA	8	2	1
+"Napo"	1	1	"Hombre"	4	36	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	36	4	NA	3	NA	1	9	NA	8	2	1
+"Guayas"	3	1	"Hombre"	4	35	12	2011	1	1	"T511"	"T51"	19	214	285	"Babahoyo"	"901"	NA	NA	NA	NA	1	35	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	3	1	"Hombre"	4	33	9	2011	1	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Tungurahua"	2	1	"Hombre"	4	33	18	2011	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Manabí"	1	1	"Hombre"	4	31	13	2011	1	1	"T511"	"T51"	19	214	285	"Chone"	"1302"	NA	NA	NA	NA	1	31	4	NA	2	NA	1	8	NA	7	1	1
+"Sucumbíos"	1	1	"Hombre"	4	30	21	2011	1	1	"T510"	"T51"	19	214	285	"Shushufindi"	"2104"	NA	NA	NA	NA	1	30	4	NA	3	NA	1	8	NA	7	1	1
+"Napo"	2	1	"Hombre"	4	29	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	29	4	NA	3	NA	1	7	NA	6	2	1
+"Napo"	1	1	"Hombre"	4	29	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	29	4	NA	3	NA	1	7	NA	6	2	1
+"Guayas"	2	1	"Hombre"	4	29	9	2011	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Guayas"	1	1	"Hombre"	4	28	9	2011	1	1	"T511"	"T51"	19	214	285	"Santa Lucía"	"906"	NA	NA	NA	NA	1	28	4	NA	2	NA	1	7	NA	6	1	1
+"Napo"	2	1	"Hombre"	4	27	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	27	4	NA	3	NA	1	7	NA	6	2	1
+"Napo"	2	1	"Hombre"	4	27	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	27	4	NA	3	NA	1	7	NA	6	2	1
+"Napo"	2	1	"Hombre"	4	26	15	2011	1	1	"T511"	"T51"	19	214	285	"Tena"	"1501"	NA	NA	NA	NA	1	26	4	NA	3	NA	1	7	NA	6	2	1
+"Morona Santiago"	1	1	"Hombre"	4	25	14	2011	1	1	"T519"	"T51"	19	214	285	"Sucúa"	"1406"	NA	NA	NA	NA	1	25	4	NA	3	NA	1	7	NA	6	2	1
+"Los Ríos"	1	1	"Hombre"	4	23	12	2011	1	1	"T519"	"T51"	19	214	285	"Vinces"	"1208"	NA	NA	NA	NA	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Napo"	1	1	"Hombre"	4	23	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1503"	NA	NA	NA	NA	1	23	4	NA	3	NA	1	6	NA	5	2	1
+"Manabí"	1	1	"Mujer"	4	22	13	2011	1	1	"T511"	"T51"	19	214	285	"Chone"	"1302"	NA	NA	NA	NA	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Pichincha"	11	2	"Mujer"	4	22	17	2011	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	1	1	"Mujer"	4	22	18	2011	1	1	"T519"	"T51"	19	214	285	"Santiago de Píllaro"	"1808"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	2	1	"Hombre"	4	22	18	2011	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	22	4	NA	1	NA	1	6	NA	5	6	3
+"Napo"	2	1	"Hombre"	4	21	15	2011	1	1	"T511"	"T51"	19	214	285	"Archidona"	"1501"	NA	NA	NA	NA	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Tungurahua"	2	1	"Hombre"	4	21	18	2011	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Cotopaxi"	1	3	"Hombre"	4	19	5	2011	1	1	"T511"	"T51"	19	214	285	"Pujilí"	"504"	NA	NA	NA	NA	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	3	1	"Hombre"	4	19	9	2011	1	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	3	1	"Hombre"	4	17	9	2011	1	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Tungurahua"	1	1	"Hombre"	4	17	18	2011	1	1	"T519"	"T51"	19	214	285	"Santiago de Píllaro"	"1808"	NA	NA	NA	NA	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Manabí"	12	2	"Mujer"	4	16	13	2011	1	1	"T513"	"T51"	19	214	285	"Portoviejo"	"1308"	NA	NA	NA	NA	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Napo"	2	1	"Hombre"	4	16	8	2011	1	1	"T511"	"T51"	19	214	285	"Muisne"	"1501"	NA	NA	NA	NA	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"El Oro"	2	1	"Mujer"	4	15	7	2011	1	1	"T511"	"T51"	19	214	285	"Machala"	"701"	NA	NA	NA	NA	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	5	1	"Mujer"	4	14	9	2011	1	1	"T513"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Tungurahua"	2	1	"Mujer"	4	13	18	2011	1	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Bolívar"	1	1	"Hombre"	4	11	2	2011	1	1	"T510"	"T51"	19	214	285	"Chimbo"	"205"	NA	NA	NA	NA	1	11	2	NA	1	NA	1	4	NA	3	5	2
+"Cañar"	2	1	"Hombre"	4	9	3	2011	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	NA	NA	NA	NA	1	9	2	NA	1	NA	1	3	NA	2	6	3
+"Manabí"	1	1	"Mujer"	4	9	13	2011	1	1	"T519"	"T51"	19	214	285	"Bolívar"	"1302"	NA	NA	NA	NA	1	9	2	NA	2	NA	1	3	NA	2	1	1
+"Guayas"	5	1	"Mujer"	4	6	9	2011	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Manabí"	1	1	"Mujer"	4	6	13	2011	1	1	"T519"	"T51"	19	214	285	"Manta"	"1308"	NA	NA	NA	NA	1	6	2	NA	2	NA	1	3	NA	2	1	1
+"Azuay"	2	1	"Hombre"	4	4	1	2011	1	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	4	1	NA	1	NA	1	2	NA	1	5	2
+"Guayas"	5	1	"Hombre"	4	4	9	2011	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	4	1	NA	2	NA	1	2	NA	1	1	1
+"Pastaza"	2	1	"Mujer"	4	4	16	2011	1	1	"T512"	"T51"	19	214	285	"Pastaza"	"1601"	NA	NA	NA	NA	1	4	1	NA	3	NA	1	2	NA	1	2	1
+"Pichincha"	1	1	"Hombre"	4	2	17	2011	1	1	"T511"	"T51"	19	214	285	"Pedro Moncayo"	"1702"	NA	NA	NA	NA	1	2	1	NA	1	NA	1	2	NA	1	5	2
+"Guayas"	5	1	"Hombre"	4	1	9	2011	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Tungurahua"	2	1	"Hombre"	4	57	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	57	5	NA	1	NA	1	13	NA	12	6	3
+"Chimborazo"	2	1	"Hombre"	4	56	6	2012	1	1	"T518"	"T51"	19	214	285	"Riobamba"	"601"	NA	NA	NA	NA	1	56	5	NA	1	NA	1	13	NA	12	6	3
+"Pichincha"	12	2	"Hombre"	4	50	17	2012	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	50	5	NA	1	NA	1	12	NA	11	6	3
+"Cañar"	2	1	"Hombre"	4	49	3	2012	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	NA	NA	NA	NA	1	49	5	NA	1	NA	1	11	NA	10	6	3
+"Tungurahua"	2	1	"Hombre"	4	44	18	2012	1	1	"T519"	"T51"	19	214	285	"Mocha"	"1801"	NA	NA	NA	NA	1	44	5	NA	1	NA	1	10	NA	9	5	2
+"Cañar"	1	1	"Hombre"	4	43	3	2012	1	1	"T510"	"T51"	19	214	285	"La Troncal"	"304"	NA	NA	NA	NA	1	43	5	NA	1	NA	1	10	NA	9	1	1
+"Morona Santiago"	1	1	"Hombre"	4	41	14	2012	1	1	"T510"	"T51"	19	214	285	"Santiago"	"1405"	NA	NA	NA	NA	1	41	5	NA	3	NA	1	10	NA	9	2	1
+"Azuay"	2	1	"Mujer"	4	37	1	2012	1	2	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	37	4	NA	1	NA	2	9	NA	8	5	2
+"Tungurahua"	12	2	"Hombre"	4	37	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	12	2	"Hombre"	4	35	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	35	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	2	3	"Hombre"	4	35	6	2012	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"1801"	NA	NA	NA	NA	1	35	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	12	2	"Hombre"	4	33	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Tungurahua"	1	1	"Hombre"	4	32	18	2012	1	1	"T519"	"T51"	19	214	285	"Santiago de Píllaro"	"1808"	NA	NA	NA	NA	1	32	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	11	1	"Mujer"	4	31	17	2012	1	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Tungurahua"	2	1	"Hombre"	4	31	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Azuay"	2	1	"Hombre"	4	30	1	2012	1	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	30	4	NA	1	NA	1	8	NA	7	5	2
+"Guayas"	2	1	"Hombre"	4	30	9	2012	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	30	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	2	1	"Hombre"	4	30	9	2012	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	30	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	13	2	"Mujer"	4	28	17	2012	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	12	2	"Mujer"	4	28	17	2012	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Pastaza"	2	1	"Hombre"	4	25	16	2012	1	1	"T519"	"T51"	19	214	285	"Pastaza"	"1601"	NA	NA	NA	NA	1	25	4	NA	3	NA	1	7	NA	6	2	1
+"Tungurahua"	12	2	"Hombre"	4	25	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Guayas"	3	1	"Hombre"	4	23	9	2012	1	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Orellana"	2	1	"Hombre"	4	19	22	2012	1	1	"T510"	"T51"	19	214	285	"Orellana"	"2201"	NA	NA	NA	NA	1	19	3	NA	3	NA	1	5	NA	4	2	1
+"Morona Santiago"	2	1	"Hombre"	4	19	14	2012	1	1	"T510"	"T51"	19	214	285	"Morona"	"1401"	NA	NA	NA	NA	1	19	3	NA	3	NA	1	5	NA	4	3	1
+"Cañar"	1	1	"Mujer"	4	19	3	2012	1	1	"T511"	"T51"	19	214	285	"Cañar"	"303"	NA	NA	NA	NA	1	19	3	NA	1	NA	1	5	NA	4	5	2
+"Pastaza"	2	1	"Mujer"	4	16	16	2012	1	1	"T519"	"T51"	19	214	285	"Pastaza"	"1601"	NA	NA	NA	NA	1	16	3	NA	3	NA	1	5	NA	4	2	1
+"Pichincha"	11	1	"Mujer"	4	15	17	2012	1	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	2	1	"Hombre"	4	15	18	2012	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Manabí"	1	1	"Hombre"	4	15	13	2012	1	1	"T510"	"T51"	19	214	285	"Bolívar"	"1302"	NA	NA	NA	NA	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	1	1	"Mujer"	4	11	9	2012	1	1	"T519"	"T51"	19	214	285	"Salitre (Urbina Jado)"	"919"	NA	NA	NA	NA	1	11	2	NA	2	NA	1	4	NA	3	1	1
+"Azuay"	2	1	"Mujer"	4	9	1	2012	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	9	2	NA	1	NA	1	3	NA	2	5	2
+"Pichincha"	12	2	"Hombre"	4	6	17	2012	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	NA	1	6	2	NA	1	NA	1	3	NA	2	6	3
+"Azuay"	2	1	"Mujer"	4	4	1	2012	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	4	1	NA	1	NA	1	2	NA	1	5	2
+"Manabí"	1	1	"Hombre"	4	2	13	2012	1	1	"T519"	"T51"	19	214	285	"Jipijapa"	"1306"	NA	NA	NA	NA	1	2	1	NA	2	NA	1	2	NA	1	1	1
+"Morona Santiago"	2	1	"Hombre"	4	1	14	2012	1	1	"T511"	"T51"	19	214	285	"Morona"	"1401"	NA	NA	NA	NA	1	1	1	NA	3	NA	1	1	NA	1	3	1
+"Los Ríos"	1	1	"Hombre"	4	1	12	2012	1	1	"T518"	"T51"	19	214	285	"Baba"	"1202"	NA	NA	NA	NA	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Manabí"	1	1	"Mujer"	4	1	13	2012	1	1	"T511"	"T51"	19	214	285	"Chone"	"1303"	NA	NA	NA	NA	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Manabí"	1	1	"Hombre"	4	75	13	2013	1	1	"T519"	"T51"	19	214	285	"Bolívar"	"1302"	NA	NA	NA	NA	1	75	6	NA	2	NA	1	17	NA	16	1	1
+"Chimborazo"	1	1	"Hombre"	4	68	6	2013	1	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	NA	NA	NA	NA	1	68	6	NA	1	NA	1	15	NA	14	6	3
+"Los Ríos"	12	2	"Hombre"	4	62	12	2013	1	1	"T519"	"T51"	19	214	285	"Quinsaloma"	"1205"	NA	NA	NA	NA	1	62	5	NA	2	NA	1	14	NA	13	1	1
+"Guayas"	12	2	"Hombre"	4	53	12	2013	1	1	"T519"	"T51"	19	214	285	"Baba"	"916"	NA	NA	NA	NA	1	53	5	NA	2	NA	1	12	NA	11	1	1
+"Azuay"	2	1	"Hombre"	4	43	1	2013	1	2	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	43	5	NA	1	NA	2	10	NA	9	5	2
+"Manabí"	2	1	"Hombre"	4	43	13	2013	1	1	"T519"	"T51"	19	214	285	"Portoviejo"	"1301"	NA	NA	NA	NA	1	43	5	NA	2	NA	1	10	NA	9	1	1
+"Azuay"	12	2	"Hombre"	4	43	1	2013	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	43	5	NA	1	NA	1	10	NA	9	5	2
+"Chimborazo"	2	1	"Hombre"	4	40	6	2013	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	NA	NA	NA	NA	1	40	5	NA	1	NA	1	9	NA	9	6	3
+"Esmeraldas"	1	1	"Hombre"	4	39	8	2013	1	1	"T519"	"T51"	19	214	285	"Eloy Alfaro"	"802"	NA	NA	NA	NA	1	39	4	NA	2	NA	1	9	NA	8	1	1
+"Carchi"	1	1	"Hombre"	4	38	4	2013	1	1	"T519"	"T51"	19	214	285	"Montúfar"	"405"	NA	NA	NA	NA	1	38	4	NA	1	NA	1	9	NA	8	6	3
+"Guayas"	12	2	"Mujer"	4	36	9	2013	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Esmeraldas"	1	1	"Mujer"	4	35	8	2013	1	1	"T519"	"T51"	19	214	285	"San Lorenzo"	"802"	NA	NA	NA	NA	1	35	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	12	2	"Hombre"	4	35	9	2013	1	1	"T519"	"T51"	19	214	285	"Samborondón"	"916"	NA	NA	NA	NA	1	35	4	NA	2	NA	1	9	NA	8	1	1
+"El Oro"	2	1	"Hombre"	4	34	7	2013	1	1	"T519"	"T51"	19	214	285	"Machala"	"701"	NA	NA	NA	NA	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	12	2	"Hombre"	4	34	9	2013	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	31	19	2013	1	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1901"	NA	NA	NA	NA	1	31	4	NA	3	NA	1	8	NA	7	2	1
+"Cañar"	1	1	"Mujer"	4	28	1	2013	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"303"	NA	NA	NA	NA	1	28	4	NA	1	NA	1	7	NA	6	5	2
+"Imbabura"	12	2	"Hombre"	4	27	10	2013	1	1	"T519"	"T51"	19	214	285	"Ibarra"	"1001"	NA	NA	NA	NA	1	27	4	NA	1	NA	1	7	NA	6	5	2
+"Azuay"	2	1	"Hombre"	4	26	1	2013	1	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	26	4	NA	1	NA	1	7	NA	6	5	2
+"Guayas"	12	2	"Mujer"	4	25	9	2013	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	25	4	NA	2	NA	1	7	NA	6	1	1
+"Manabí"	12	2	"Mujer"	4	22	13	2013	1	1	"T519"	"T51"	19	214	285	"Portoviejo"	"1301"	NA	NA	NA	NA	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Morona Santiago"	1	1	"Mujer"	4	21	14	2013	1	1	"T510"	"T51"	19	214	285	"Santiago"	"1405"	NA	NA	NA	NA	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Guayas"	12	2	"Mujer"	4	21	9	2013	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Chimborazo"	2	1	"Mujer"	4	20	6	2013	1	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	NA	NA	NA	NA	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Napo"	1	1	"Mujer"	4	20	15	2013	1	1	"T519"	"T51"	19	214	285	"Quijos"	"1504"	NA	NA	NA	NA	1	20	3	NA	3	NA	1	6	NA	5	4	2
+"El Oro"	2	1	"Mujer"	4	19	7	2013	1	1	"T519"	"T51"	19	214	285	"Santa Rosa"	"712"	NA	NA	NA	NA	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Manabí"	1	1	"Hombre"	4	19	13	2013	1	1	"T518"	"T51"	19	214	285	"Tosagua"	"1302"	NA	NA	NA	NA	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Cotopaxi"	12	2	"Mujer"	4	19	5	2013	1	1	"T510"	"T51"	19	214	285	"Latacunga"	"501"	NA	NA	NA	NA	1	19	3	NA	1	NA	1	5	NA	4	8	4
+"Cañar"	1	1	"Hombre"	4	18	3	2013	1	1	"T510"	"T51"	19	214	285	"Cañar"	"303"	NA	NA	NA	NA	1	18	3	NA	1	NA	1	5	NA	4	5	2
+"Napo"	1	1	"Hombre"	4	18	15	2013	1	1	"T519"	"T51"	19	214	285	"El Chaco"	"1504"	NA	NA	NA	NA	1	18	3	NA	3	NA	1	5	NA	4	4	2
+"Zamora Chinchipe"	1	1	"Hombre"	4	18	19	2013	1	1	"T511"	"T51"	19	214	285	"Chinchipe"	"1902"	NA	NA	NA	NA	1	18	3	NA	3	NA	1	5	NA	4	3	1
+"Guayas"	12	2	"Hombre"	4	18	9	2013	1	1	"T519"	"T51"	19	214	285	"Samborondón"	"916"	NA	NA	NA	NA	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Tungurahua"	2	1	"Hombre"	4	17	18	2013	1	1	"T510"	"T51"	19	214	285	"Mocha"	"1801"	NA	NA	NA	NA	1	17	3	NA	1	NA	1	5	NA	4	5	2
+"Azuay"	2	1	"Hombre"	4	15	1	2013	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Azuay"	2	1	"Hombre"	4	15	1	2013	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Azuay"	2	1	"Hombre"	4	13	1	2013	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	5	2
+"Cotopaxi"	1	3	"Hombre"	4	13	5	2013	1	1	"T511"	"T51"	19	214	285	"Pujilí"	"504"	NA	NA	NA	NA	1	13	3	NA	1	NA	1	4	NA	3	6	3
+"Azuay"	2	1	"Hombre"	4	11	1	2013	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	11	2	NA	1	NA	1	4	NA	3	5	2
+"Azuay"	2	1	"Hombre"	4	11	1	2013	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	1	11	2	NA	1	NA	1	4	NA	3	5	2
+"Cotopaxi"	1	1	"Hombre"	4	11	5	2013	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	NA	NA	NA	NA	1	11	2	NA	1	NA	1	4	NA	3	6	3
+"Galápagos"	2	1	"Hombre"	4	10	20	2013	1	1	"T519"	"T51"	19	214	285	"San Cristóbal"	"2001"	NA	NA	NA	NA	1	10	2	NA	4	NA	1	4	NA	3	1	1
+"Guayas"	12	2	"Hombre"	4	72	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	72	6	NA	2	NA	1	16	NA	15	1	1
+"Manabí"	1	1	"Hombre"	4	61	13	2014	1	1	"T519"	"T51"	19	214	285	"Junín"	"1302"	NA	NA	NA	"Mestizo/a"	1	61	5	NA	2	NA	1	14	NA	13	1	1
+"Tungurahua"	2	1	"Mujer"	4	61	18	2014	1	1	"T511"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	"Mestizo/a"	1	61	5	NA	1	NA	1	14	NA	13	6	3
+"Manabí"	1	1	"Hombre"	4	58	13	2014	1	1	"T519"	"T51"	19	214	285	"Bolívar"	"1302"	NA	NA	NA	"Mestizo/a"	1	58	5	NA	2	NA	1	13	NA	12	1	1
+"Pichincha"	12	2	"Hombre"	4	55	17	2014	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Mestizo/a"	1	55	5	NA	1	NA	1	13	NA	12	6	3
+"Guayas"	12	2	"Hombre"	4	52	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Los Ríos"	12	2	"Mujer"	4	52	12	2014	1	1	"T519"	"T51"	19	214	285	"Buena Fe"	"1210"	NA	NA	NA	"Mestizo/a"	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Guayas"	1	1	"Hombre"	4	51	9	2014	1	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	NA	NA	NA	"Mestizo/a"	1	51	5	NA	2	NA	1	12	NA	11	1	1
+"Guayas"	2	1	"Mujer"	4	44	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	44	5	NA	2	NA	1	10	NA	9	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Mujer"	4	38	23	2014	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	NA	NA	NA	"Mestizo/a"	1	38	4	NA	2	NA	1	9	NA	8	2	1
+"Manabí"	1	1	"Hombre"	4	34	17	2014	1	1	"T519"	"T51"	19	214	285	"Quito"	"1305"	NA	NA	NA	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Santa Elena"	2	3	"Hombre"	4	34	24	2014	1	1	"T519"	"T51"	19	214	285	"La Libertad"	"2401"	NA	NA	NA	"Mestizo/a"	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Napo"	2	1	"Hombre"	4	32	15	2014	1	1	"T510"	"T51"	19	214	285	"Carlos Julio Arosemena Tola"	"1501"	NA	NA	NA	"Otro/a"	1	32	4	NA	3	NA	1	8	NA	7	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	32	23	2014	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	NA	NA	NA	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	2	1
+"Cotopaxi"	1	3	"Hombre"	4	31	5	2014	1	1	"T510"	"T51"	19	214	285	"Sigchos"	"504"	NA	NA	NA	"Indígena"	1	31	4	NA	1	NA	1	8	NA	7	5	2
+"Manabí"	2	1	"Hombre"	4	29	13	2014	1	1	"T519"	"T51"	19	214	285	"Montecristi"	"1308"	NA	NA	NA	"Mestizo/a"	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Los Ríos"	12	2	"Hombre"	4	29	12	2014	1	1	"T519"	"T51"	19	214	285	"Quevedo"	"1205"	NA	NA	NA	"Mestizo/a"	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Los Ríos"	1	1	"Mujer"	4	28	12	2014	1	1	"T513"	"T51"	19	214	285	"Puebloviejo"	"1206"	NA	NA	NA	"Mestizo/a"	1	28	4	NA	2	NA	1	7	NA	6	1	1
+"Guayas"	2	1	"Hombre"	4	27	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	27	4	NA	2	NA	1	7	NA	6	1	1
+"Guayas"	11	1	"Hombre"	4	26	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Otro/a"	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Bolívar"	12	2	"Hombre"	4	25	2	2014	1	1	"T510"	"T51"	19	214	285	"Guaranda"	"201"	NA	NA	NA	"Mestizo/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Guayas"	2	1	"Hombre"	4	24	9	2014	1	2	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Ignorado/a"	1	24	4	NA	2	NA	2	6	NA	5	1	1
+"Sucumbíos"	1	1	"Hombre"	4	24	21	2014	1	1	"T519"	"T51"	19	214	285	"Shushufindi"	"2104"	NA	NA	NA	"Mestizo/a"	1	24	4	NA	3	NA	1	6	NA	5	1	1
+"Manabí"	1	1	"Hombre"	4	23	13	2014	1	1	"T519"	"T51"	19	214	285	"Chone"	"1302"	NA	NA	NA	"Mestizo/a"	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Manabí"	12	2	"Hombre"	4	23	13	2014	1	1	"T519"	"T51"	19	214	285	"Chone"	"1303"	NA	NA	NA	"Blanco/a"	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	22	23	2014	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	NA	NA	NA	"Mestizo/a"	1	22	4	NA	2	NA	1	6	NA	5	2	1
+"Bolívar"	1	1	"Hombre"	4	21	2	2014	1	1	"T519"	"T51"	19	214	285	"Chillanes"	"202"	NA	NA	NA	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	5	2
+"Guayas"	2	1	"Hombre"	4	21	9	2014	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Guayas"	2	1	"Mujer"	4	21	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Zamora Chinchipe"	2	1	"Mujer"	4	21	19	2014	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	NA	NA	NA	"Mestizo/a"	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Bolívar"	2	1	"Hombre"	4	19	2	2014	1	1	"T519"	"T51"	19	214	285	"Guaranda"	"201"	NA	NA	NA	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	2	1	"Mujer"	4	19	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	2	1	"Hombre"	4	19	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Los Ríos"	1	1	"Mujer"	4	19	2	2014	1	1	"T519"	"T51"	19	214	285	"Las Naves"	"1207"	NA	NA	NA	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	5	2
+"Guayas"	2	1	"Mujer"	4	18	9	2014	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Ignorado/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	2	1	"Mujer"	4	18	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	5	1	"Hombre"	4	17	9	2014	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Ignorado/a"	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	12	2	"Hombre"	4	17	17	2014	1	1	"T519"	"T51"	19	214	285	"Rumiñahui"	"1705"	NA	NA	NA	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	2	1	"Hombre"	4	16	18	2014	1	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	NA	NA	NA	"Indígena"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Galápagos"	1	1	"Mujer"	4	15	20	2014	1	1	"T519"	"T51"	19	214	285	"Santa Cruz"	"2003"	NA	NA	NA	"Mestizo/a"	1	15	3	NA	4	NA	1	5	NA	4	2	1
+"Pichincha"	2	2	"Mujer"	4	15	17	2014	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	NA	NA	NA	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	12	2	"Hombre"	4	14	5	2014	1	1	"T510"	"T51"	19	214	285	"Salcedo"	"501"	NA	NA	NA	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	8	4
+"Manabí"	12	2	"Mujer"	4	7	13	2014	1	1	"T511"	"T51"	19	214	285	"Manta"	"1308"	NA	NA	NA	"Mestizo/a"	1	7	2	NA	2	NA	1	3	NA	2	1	1
+"Santa Elena"	2	1	"Mujer"	4	4	24	2014	1	1	"T519"	"T51"	19	214	285	"Santa Elena"	"2401"	NA	NA	NA	"Mestizo/a"	1	4	1	NA	2	NA	1	2	NA	1	1	1
+"Cañar"	12	2	"Hombre"	4	68	3	2015	1	1	"T511"	"T51"	19	214	285	"Cañar"	"301"	1	2	30	"Mestizo/a"	1	68	6	NA	1	NA	1	15	NA	14	5	2
+"Pichincha"	2	2	"Hombre"	4	61	17	2015	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	30	"Mestizo/a"	1	61	5	NA	1	NA	1	14	NA	13	6	3
+"Pichincha"	2	1	"Hombre"	4	58	17	2015	1	2	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	2	27	"Mestizo/a"	1	58	5	NA	1	NA	2	13	NA	12	6	3
+"Guayas"	2	3	"Hombre"	4	57	12	2015	1	1	"T519"	"T51"	19	214	285	"Buena Fe"	"901"	1	1	49	"Mestizo/a"	1	57	5	NA	2	NA	1	13	NA	12	1	1
+"Azuay"	1	1	"Hombre"	4	52	1	2015	1	1	"T511"	"T51"	19	214	285	"Gualaceo"	"103"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	5	2
+"Azuay"	1	1	"Hombre"	4	52	1	2015	1	1	"T519"	"T51"	19	214	285	"Santa Isabel"	"108"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	4	2
+"Guayas"	12	2	"Mujer"	4	51	9	2015	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	26	"Mestizo/a"	1	51	5	NA	2	NA	1	12	NA	11	1	1
+"Tungurahua"	2	1	"Hombre"	4	47	18	2015	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	47	5	NA	1	NA	1	11	NA	10	6	3
+"Tungurahua"	2	1	"Hombre"	4	47	18	2015	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	47	5	NA	1	NA	1	11	NA	10	6	3
+"Azuay"	1	1	"Hombre"	4	47	1	2015	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"108"	1	1	27	"Mestizo/a"	1	47	5	NA	1	NA	1	11	NA	10	5	2
+"Guayas"	11	1	"Hombre"	4	45	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Otro/a"	1	45	5	NA	2	NA	1	11	NA	10	1	1
+"Guayas"	12	2	"Hombre"	4	44	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"921"	1	2	25	"Mestizo/a"	1	44	5	NA	2	NA	1	10	NA	9	1	1
+"Guayas"	12	2	"Hombre"	4	43	9	2015	1	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	1	1	49	"Mestizo/a"	1	43	5	NA	2	NA	1	10	NA	9	1	1
+"Pichincha"	2	2	"Hombre"	4	43	21	2015	1	1	"T519"	"T51"	19	214	285	"Shushufindi"	"1701"	1	1	27	"Mestizo/a"	1	43	5	NA	3	NA	1	10	NA	9	1	1
+"Manabí"	2	1	"Hombre"	4	42	13	2015	1	1	"T519"	"T51"	19	214	285	"Tosagua"	"1303"	1	1	27	"Mestizo/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Manabí"	1	1	"Hombre"	4	41	13	2015	1	1	"T519"	"T51"	19	214	285	"Bolívar"	"1302"	1	1	27	"Mestizo/a"	1	41	5	NA	2	NA	1	10	NA	9	1	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	39	19	2015	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	2	27	"Mestizo/a"	1	39	4	NA	3	NA	1	9	NA	8	2	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	39	23	2015	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	27	"Mestizo/a"	1	39	4	NA	2	NA	1	9	NA	8	2	1
+"Los Ríos"	1	1	"Mujer"	4	38	12	2015	1	1	"T519"	"T51"	19	214	285	"Baba"	"1202"	1	1	27	"Mestizo/a"	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	11	1	"Hombre"	4	37	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Otro/a"	1	37	4	NA	2	NA	1	9	NA	8	1	1
+"Santa Elena"	12	2	"Hombre"	4	37	24	2015	1	1	"T519"	"T51"	19	214	285	"La Libertad"	"2402"	1	1	49	"Mestizo/a"	1	37	4	NA	2	NA	1	9	NA	8	1	1
+"Azuay"	2	1	"Hombre"	4	36	1	2015	1	1	"T519"	"T51"	19	214	285	"Nabón"	"101"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	7	3
+"Guayas"	12	2	"Mujer"	4	34	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Manabí"	1	1	"Hombre"	4	31	13	2015	1	1	"T519"	"T51"	19	214	285	"Paján"	"1310"	1	2	27	"Mestizo/a"	1	31	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	12	2	"Mujer"	4	31	9	2015	1	1	"T519"	"T51"	19	214	285	"Samborondón"	"916"	1	2	49	"Mestizo/a"	1	31	4	NA	2	NA	1	8	NA	7	1	1
+"Zamora Chinchipe"	1	1	"Hombre"	4	30	19	2015	1	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	2	27	"Indígena"	1	30	4	NA	3	NA	1	8	NA	7	2	1
+"Manabí"	2	1	"Hombre"	4	29	13	2015	1	1	"T519"	"T51"	19	214	285	"Portoviejo"	"1301"	1	1	27	"Mestizo/a"	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Pichincha"	2	2	"Mujer"	4	28	17	2015	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Loja"	12	2	"Hombre"	4	26	11	2015	1	1	"T519"	"T51"	19	214	285	"Loja"	"1101"	1	1	49	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	4	2
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	23	23	2015	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Ignorado/a"	1	23	4	NA	2	NA	1	6	NA	5	2	1
+"Loja"	12	2	"Hombre"	4	23	11	2015	1	1	"T519"	"T51"	19	214	285	"Saraguro"	"1101"	1	1	49	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	2	3	"Hombre"	4	23	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Ignorado/a"	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Bolívar"	1	1	"Hombre"	4	22	2	2015	1	1	"T519"	"T51"	19	214	285	"Chillanes"	"202"	1	1	27	"Mestizo/a"	1	22	4	NA	1	NA	1	6	NA	5	5	2
+"Manabí"	1	1	"Hombre"	4	21	13	2015	1	1	"T519"	"T51"	19	214	285	"Paján"	"1310"	1	2	27	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Guayas"	12	2	"Hombre"	4	21	9	2015	1	1	"T519"	"T51"	19	214	285	"Naranjito"	"912"	1	1	25	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Pichincha"	2	2	"Hombre"	4	21	17	2015	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Santo Domingo de los Tsáchilas"	12	2	"Mujer"	4	20	23	2015	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	20	3	NA	2	NA	1	6	NA	5	2	1
+"Pichincha"	2	2	"Hombre"	4	18	17	2015	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Los Ríos"	12	2	"Hombre"	4	18	12	2015	1	1	"T519"	"T51"	19	214	285	"Babahoyo"	"1201"	1	1	49	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	12	2	"Hombre"	4	18	9	2015	1	1	"T519"	"T51"	19	214	285	"Samborondón"	"916"	1	2	49	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Chimborazo"	2	1	"Mujer"	4	17	6	2015	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	7	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	12	2	"Hombre"	4	17	5	2015	1	1	"T510"	"T51"	19	214	285	"Latacunga"	"501"	1	1	7	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	8	4
+"Bolívar"	1	1	"Hombre"	4	16	2	2015	1	1	"T519"	"T51"	19	214	285	"Chillanes"	"202"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	5	2
+"Guayas"	5	3	"Hombre"	4	16	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	41	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Guayas"	5	3	"Mujer"	4	16	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	41	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	2	2	"Mujer"	4	15	17	2015	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	20	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	12	2	"Mujer"	4	15	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	15	23	2015	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	15	3	NA	2	NA	1	5	NA	4	2	1
+"Pichincha"	11	1	"Mujer"	4	14	17	2015	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Los Ríos"	1	1	"Mujer"	4	12	12	2015	1	1	"T511"	"T51"	19	214	285	"Quevedo"	"1205"	1	1	41	"Mestizo/a"	1	12	2	NA	2	NA	1	4	NA	3	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Mujer"	4	7	23	2015	1	1	"T518"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	41	"Mestizo/a"	1	7	2	NA	2	NA	1	3	NA	2	2	1
+"Loja"	12	2	"Hombre"	4	7	11	2015	1	1	"T510"	"T51"	19	214	285	"Loja"	"1101"	1	1	41	"Mestizo/a"	1	7	2	NA	1	NA	1	3	NA	2	4	2
+"Guayas"	1	1	"Mujer"	4	3	9	2015	1	1	"T511"	"T51"	19	214	285	"Daule"	"906"	1	1	41	"Mestizo/a"	1	3	1	NA	2	NA	1	2	NA	1	1	1
+"Guayas"	5	3	"Hombre"	4	1	9	2015	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	41	"Mestizo/a"	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Cañar"	12	2	"Hombre"	4	79	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	49	"Mestizo/a"	1	79	6	NA	1	NA	1	17	NA	16	6	3
+"Guayas"	12	2	"Hombre"	4	56	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Blanco/a"	1	56	5	NA	2	NA	1	13	NA	12	1	1
+"Guayas"	12	2	"Hombre"	4	56	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"920"	2	1	27	"Mestizo/a"	1	56	5	NA	2	NA	1	13	NA	12	1	1
+"Los Ríos"	1	1	"Hombre"	4	52	12	2016	1	1	"T519"	"T51"	19	214	285	"Ventanas"	"1207"	1	1	27	"Mestizo/a"	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Tungurahua"	2	1	"Hombre"	4	52	18	2016	1	1	"T510"	"T51"	19	214	285	"San Pedro de Pelileo"	"1801"	1	1	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	50	23	2016	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	50	5	NA	2	NA	1	12	NA	11	2	1
+"Guayas"	12	2	"Hombre"	4	48	9	2016	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	2	"Mestizo/a"	1	48	5	NA	2	NA	1	11	NA	10	1	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	47	19	2016	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	47	5	NA	3	NA	1	11	NA	10	2	1
+"Manabí"	2	1	"Mujer"	4	46	13	2016	1	1	"T518"	"T51"	19	214	285	"Chone"	"1303"	1	1	27	"Mestizo/a"	1	46	5	NA	2	NA	1	11	NA	10	1	1
+"Cañar"	12	2	"Hombre"	4	46	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	49	"Mestizo/a"	1	46	5	NA	1	NA	1	11	NA	10	6	3
+"Guayas"	2	1	"Hombre"	4	42	9	2016	1	1	"T519"	"T51"	19	214	285	"Durán"	"901"	1	1	27	"Otro/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Pichincha"	12	2	"Hombre"	4	41	17	2016	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	41	5	NA	1	NA	1	10	NA	9	6	3
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	41	23	2016	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	41	5	NA	2	NA	1	10	NA	9	2	1
+"Cañar"	2	1	"Hombre"	4	39	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	39	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	2	1	"Hombre"	4	39	18	2016	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	39	4	NA	1	NA	1	9	NA	8	6	3
+"Guayas"	2	1	"Hombre"	4	38	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Otro/a"	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	38	23	2016	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	38	4	NA	2	NA	1	9	NA	8	2	1
+"Cañar"	2	1	"Hombre"	4	37	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Cañar"	2	1	"Hombre"	4	36	3	2016	1	1	"T510"	"T51"	19	214	285	"Déleg"	"301"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"El Oro"	12	2	"Mujer"	4	36	7	2016	1	1	"T510"	"T51"	19	214	285	"Machala"	"701"	1	1	49	"Mestizo/a"	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Guayas"	12	2	"Mujer"	4	36	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Azuay"	2	1	"Hombre"	4	35	1	2016	1	2	"T511"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	35	4	NA	1	NA	2	9	NA	8	5	2
+"Cañar"	2	1	"Hombre"	4	34	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	2	1	"Hombre"	4	33	17	2016	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Los Ríos"	1	1	"Mujer"	4	32	12	2016	1	1	"T519"	"T51"	19	214	285	"Baba"	"1202"	1	1	27	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	12	2	"Hombre"	4	32	10	2016	1	1	"T519"	"T51"	19	214	285	"Cotacachi"	"1701"	1	1	25	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	5	2
+"Zamora Chinchipe"	1	1	"Hombre"	4	31	19	2016	1	1	"T519"	"T51"	19	214	285	"El Pangui"	"1905"	1	2	27	"Mestizo/a"	1	31	4	NA	3	NA	1	8	NA	7	2	1
+"Pichincha"	12	2	"Mujer"	4	31	17	2016	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	44	"Mestizo/a"	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Cañar"	2	1	"Hombre"	4	29	1	2016	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"301"	1	1	27	"Mestizo/a"	1	29	4	NA	1	NA	1	7	NA	6	5	2
+"Zamora Chinchipe"	2	1	"Hombre"	4	29	19	2016	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	29	4	NA	3	NA	1	7	NA	6	2	1
+"Loja"	12	2	"Hombre"	4	28	11	2016	1	1	"T510"	"T51"	19	214	285	"Loja"	"1101"	1	1	49	"Indígena"	1	28	4	NA	1	NA	1	7	NA	6	4	2
+"Santo Domingo de los Tsáchilas"	12	2	"Mujer"	4	28	23	2016	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	27	"Mestizo/a"	1	28	4	NA	2	NA	1	7	NA	6	2	1
+"Santa Elena"	12	2	"Mujer"	4	28	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"2403"	2	1	27	"Mestizo/a"	1	28	4	NA	2	NA	1	7	NA	6	1	1
+"Los Ríos"	1	1	"Hombre"	4	27	12	2016	1	1	"T519"	"T51"	19	214	285	"Ventanas"	"1207"	1	2	27	"Mestizo/a"	1	27	4	NA	2	NA	1	7	NA	6	1	1
+"Guayas"	12	2	"Hombre"	4	26	9	2016	1	1	"T519"	"T51"	19	214	285	"Samborondón"	"916"	1	2	49	"Mestizo/a"	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Los Ríos"	1	1	"Hombre"	4	25	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"1208"	1	1	27	"Mestizo/a"	1	25	4	NA	2	NA	1	7	NA	6	1	1
+"Loja"	1	1	"Hombre"	4	24	11	2016	1	1	"T519"	"T51"	19	214	285	"Loja"	"1106"	1	1	27	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	4	2
+"Pichincha"	12	2	"Hombre"	4	24	17	2016	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	12	2	"Hombre"	4	24	9	2016	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	2	"Mestizo/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Guayas"	2	3	"Hombre"	4	23	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Guayas"	1	1	"Mujer"	4	21	9	2016	1	1	"T519"	"T51"	19	214	285	"Naranjito"	"912"	1	1	27	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Los Ríos"	1	1	"Hombre"	4	21	12	2016	1	1	"T519"	"T51"	19	214	285	"Ventanas"	"1207"	1	1	27	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Loja"	1	1	"Hombre"	4	21	11	2016	1	1	"T519"	"T51"	19	214	285	"Espíndola"	"1106"	1	2	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	4	2
+"Cañar"	2	1	"Hombre"	4	20	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	12	2	"Hombre"	4	20	9	2016	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	2	"Mestizo/a"	1	20	3	NA	2	NA	1	6	NA	5	1	1
+"Cañar"	2	1	"Hombre"	4	19	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	19	19	2016	1	1	"T519"	"T51"	19	214	285	"Yacuambí"	"1901"	1	1	27	"Indígena"	1	19	3	NA	3	NA	1	5	NA	4	3	1
+"Azuay"	11	2	"Hombre"	4	19	1	2016	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	5	2
+"Guayas"	2	1	"Hombre"	4	18	9	2016	1	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	1	1	27	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Cañar"	2	1	"Hombre"	4	18	3	2016	1	1	"T510"	"T51"	19	214	285	"Azogues"	"301"	1	2	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	2	1	"Hombre"	4	17	24	2016	1	1	"T511"	"T51"	19	214	285	"Santa Elena"	"901"	1	1	27	"Otro/a"	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Manabí"	2	1	"Hombre"	4	17	13	2016	1	1	"T519"	"T51"	19	214	285	"Chone"	"1303"	1	1	27	"Mestizo/a"	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Tungurahua"	2	1	"Hombre"	4	16	18	2016	1	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Los Ríos"	1	1	"Hombre"	4	16	12	2016	1	1	"T519"	"T51"	19	214	285	"Vinces"	"1208"	1	1	27	"Mestizo/a"	1	16	3	NA	2	NA	1	5	NA	4	1	1
+"Loja"	1	1	"Hombre"	4	16	11	2016	1	1	"T519"	"T51"	19	214	285	"Espíndola"	"1106"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	4	2
+"Morona Santiago"	1	1	"Hombre"	4	16	14	2016	1	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	1	2	27	"Indígena"	1	16	3	NA	3	NA	1	5	NA	4	2	1
+"Pichincha"	2	2	"Mujer"	4	16	17	2016	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	16	17	2016	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	44	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Manabí"	2	1	"Mujer"	4	15	13	2016	1	1	"T518"	"T51"	19	214	285	"Flavio Alfaro"	"1303"	1	1	27	"Mestizo/a"	1	15	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	2	2	"Mujer"	4	15	17	2016	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	49	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	1	1	"Mujer"	4	14	9	2016	1	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	1	1	41	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Morona Santiago"	1	1	"Mujer"	4	13	14	2016	1	1	"T519"	"T51"	19	214	285	"Tiwintza"	"1405"	1	1	41	"Mestizo/a"	1	13	3	NA	3	NA	1	4	NA	3	1	1
+"Guayas"	5	3	"Mujer"	4	13	9	2016	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	41	"Mestizo/a"	1	13	3	NA	2	NA	1	4	NA	3	1	1
+"Los Ríos"	1	1	"Mujer"	4	10	12	2016	1	1	"T519"	"T51"	19	214	285	"Baba"	"1202"	1	1	41	"Mestizo/a"	1	10	2	NA	2	NA	1	4	NA	3	1	1
+"Imbabura"	12	2	"Hombre"	4	7	10	2016	1	1	"T510"	"T51"	19	214	285	"Ibarra"	"1001"	1	1	41	"Mestizo/a"	1	7	2	NA	1	NA	1	3	NA	2	5	2
+"Cañar"	1	1	"Hombre"	4	2	3	2016	1	1	"T510"	"T51"	19	214	285	"La Troncal"	"304"	1	2	41	"Mestizo/a"	1	2	1	NA	1	NA	1	2	NA	1	1	1
+"Azuay"	2	1	"Hombre"	4	2	1	2016	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	41	"Mestizo/a"	1	2	1	NA	1	NA	1	2	NA	1	5	2
+"Guayas"	5	1	"Hombre"	4	2	9	2016	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	2	1	NA	2	NA	1	2	NA	1	1	1
+"Manabí"	1	1	"Mujer"	4	1	13	2016	1	1	"T519"	"T51"	19	214	285	"Manta"	"1308"	1	1	41	"Mestizo/a"	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Morona Santiago"	1	1	"Hombre"	4	1	14	2016	1	1	"T510"	"T51"	19	214	285	"Logroño"	"1406"	1	1	41	"Mestizo/a"	1	1	1	NA	3	NA	1	1	NA	1	2	1
+"Chimborazo"	1	1	"Hombre"	4	23	6	2017	1	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Cotopaxi"	1	1	"Hombre"	4	40	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"504"	2	1	27	"Indígena"	1	40	5	NA	1	NA	1	9	NA	9	6	3
+"Cotopaxi"	1	2	"Hombre"	4	70	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"501"	1	1	27	"Mestizo/a"	1	70	6	NA	1	NA	1	16	NA	15	6	3
+"Cotopaxi"	12	2	"Hombre"	4	44	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	49	"Mestizo/a"	1	44	5	NA	1	NA	1	10	NA	9	8	4
+"Cotopaxi"	12	2	"Hombre"	4	61	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	49	"Indígena"	1	61	5	NA	1	NA	1	14	NA	13	8	4
+"Guayas"	1	1	"Hombre"	4	43	9	2017	1	1	"T510"	"T51"	19	214	285	"El Triunfo"	"909"	1	1	27	"Mestizo/a"	1	43	5	NA	2	NA	1	10	NA	9	1	1
+"Cotopaxi"	1	1	"Hombre"	4	40	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"504"	2	1	27	"Indígena"	1	40	5	NA	1	NA	1	9	NA	9	6	3
+"Cotopaxi"	1	1	"Mujer"	4	57	5	2017	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	57	5	NA	1	NA	1	13	NA	12	6	3
+"Cotopaxi"	1	1	"Hombre"	4	20	5	2017	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	12	2	"Hombre"	4	78	9	2017	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	1	27	"Mestizo/a"	1	78	6	NA	2	NA	1	17	NA	16	1	1
+"Guayas"	12	2	"Hombre"	4	32	9	2017	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	2	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Cotopaxi"	12	2	"Hombre"	4	34	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	30	"Blanco/a"	1	34	4	NA	1	NA	1	8	NA	7	8	4
+"Tungurahua"	1	2	"Hombre"	4	23	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Chimborazo"	1	2	"Mujer"	4	28	6	2017	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Chimborazo"	1	2	"Hombre"	4	30	6	2017	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	6	3
+"Cotopaxi"	1	2	"Hombre"	4	28	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	8	4
+"Cotopaxi"	1	2	"Mujer"	4	28	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	8	4
+"Cotopaxi"	1	2	"Hombre"	4	40	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	40	5	NA	1	NA	1	9	NA	9	8	4
+"Cotopaxi"	1	2	"Hombre"	4	23	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	8	4
+"Cotopaxi"	1	2	"Hombre"	4	23	5	2017	1	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	8	4
+"Chimborazo"	1	2	"Hombre"	4	33	6	2017	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	49	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Cotopaxi"	2	1	"Hombre"	4	50	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	8	4
+"Cotopaxi"	2	1	"Hombre"	4	27	5	2017	1	1	"T511"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	8	4
+"Napo"	2	1	"Hombre"	4	11	15	2017	1	1	"T519"	"T51"	19	214	285	"Tena"	"1501"	1	1	41	"Mestizo/a"	1	11	2	NA	3	NA	1	4	NA	3	2	1
+"Guayas"	12	2	"Hombre"	4	29	9	2017	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	2	"Mestizo/a"	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Pichincha"	2	2	"Mujer"	4	44	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	44	5	NA	1	NA	1	10	NA	9	6	3
+"Esmeraldas"	11	2	"Hombre"	4	36	8	2017	1	1	"T519"	"T51"	19	214	285	"San Lorenzo"	"801"	1	1	2	"Mestizo/a"	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Sucumbíos"	1	1	"Mujer"	4	13	21	2017	1	1	"T518"	"T51"	19	214	285	"Shushufindi"	"2104"	1	2	41	"Mestizo/a"	1	13	3	NA	3	NA	1	4	NA	3	1	1
+"Manabí"	1	1	"Hombre"	4	32	13	2017	1	1	"T519"	"T51"	19	214	285	"Flavio Alfaro"	"1305"	1	1	27	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Bolívar"	1	1	"Hombre"	4	14	2	2017	1	1	"T519"	"T51"	19	214	285	"Chillanes"	"202"	1	1	27	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	5	2
+"Tungurahua"	12	2	"Hombre"	4	31	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Galápagos"	1	1	"Mujer"	4	17	20	2017	1	1	"T519"	"T51"	19	214	285	"Santa Cruz"	"2003"	1	1	27	"Blanco/a"	1	17	3	NA	4	NA	1	5	NA	4	2	1
+"Santo Domingo de los Tsáchilas"	12	2	"Mujer"	4	21	23	2017	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	49	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	2	1
+"Pichincha"	2	2	"Mujer"	4	14	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Guayas"	2	1	"Mujer"	4	14	9	2017	1	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	41	"Mestizo/a"	1	14	3	NA	2	NA	1	4	NA	3	1	1
+"Guayas"	12	2	"Hombre"	4	47	9	2017	1	1	"T519"	"T51"	19	214	285	"Samborondón"	"916"	1	2	49	"Mestizo/a"	1	47	5	NA	2	NA	1	11	NA	10	1	1
+"Los Ríos"	2	1	"Hombre"	4	3	12	2017	1	1	"T519"	"T51"	19	214	285	"Quevedo"	"1205"	1	1	27	"Ignorado/a"	1	3	1	NA	2	NA	1	2	NA	1	1	1
+"Los Ríos"	2	1	"Hombre"	4	8	12	2017	1	1	"T519"	"T51"	19	214	285	"Quevedo"	"1205"	1	1	27	"Ignorado/a"	1	8	2	NA	2	NA	1	3	NA	2	1	1
+"Galápagos"	1	1	"Mujer"	4	22	20	2017	1	1	"T519"	"T51"	19	214	285	"Santa Cruz"	"2003"	1	1	27	"Mestizo/a"	1	22	4	NA	4	NA	1	6	NA	5	2	1
+"Pichincha"	2	1	"Hombre"	4	14	17	2017	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	2	2	"Hombre"	4	30	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	30	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	12	2	"Mujer"	4	19	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	49	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	41	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	41	5	NA	1	NA	1	10	NA	9	6	3
+"Santa Elena"	2	1	"Hombre"	4	19	24	2017	1	1	"T519"	"T51"	19	214	285	"La Libertad"	"2401"	1	1	49	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Santa Elena"	2	1	"Hombre"	4	19	24	2017	1	1	"T519"	"T51"	19	214	285	"La Libertad"	"2401"	1	1	49	"Mestizo/a"	1	19	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	2	2	"Hombre"	4	16	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	1	49	"Otro/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	32	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	51	11	2017	1	1	"T510"	"T51"	19	214	285	"Saraguro"	"1901"	1	1	27	"Indígena"	1	51	5	NA	1	NA	1	12	NA	11	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	62	11	2017	1	1	"T510"	"T51"	19	214	285	"Saraguro"	"1901"	1	1	27	"Indígena"	1	62	5	NA	1	NA	1	14	NA	13	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	18	11	2017	1	1	"T510"	"T51"	19	214	285	"Loja"	"1901"	1	1	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	4	2
+"Zamora Chinchipe"	2	1	"Mujer"	4	13	19	2017	1	1	"T510"	"T51"	19	214	285	"Zamora"	"1901"	1	1	41	"Indígena"	1	13	3	NA	3	NA	1	4	NA	3	2	1
+"Guayas"	2	1	"Hombre"	4	32	9	2017	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	1	1	"Hombre"	4	1	9	2017	1	1	"T519"	"T51"	19	214	285	"Durán"	"907"	1	1	41	"Mestizo/a"	1	1	1	NA	2	NA	1	1	NA	1	1	1
+"Loja"	2	1	"Hombre"	4	13	11	2017	1	1	"T519"	"T51"	19	214	285	"Loja"	"1101"	1	1	41	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	4	2
+"Chimborazo"	1	1	"Hombre"	4	17	6	2017	1	1	"T519"	"T51"	19	214	285	"Guamote"	"606"	1	1	27	"Indígena"	1	17	3	NA	1	NA	1	5	NA	4	7	3
+"Chimborazo"	2	1	"Hombre"	4	11	6	2017	1	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	1	41	"Mestizo/a"	1	11	2	NA	1	NA	1	4	NA	3	6	3
+"Cotopaxi"	1	2	"Hombre"	4	17	5	2017	1	1	"T519"	"T51"	19	214	285	"La Maná"	"502"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	1	1
+"Cotopaxi"	1	2	"Hombre"	4	32	5	2017	1	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	1	"Hombre"	4	33	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"504"	2	1	27	"Indígena"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Santa Elena"	12	2	"Hombre"	4	35	24	2017	1	1	"T519"	"T51"	19	214	285	"Santa Elena"	"2403"	2	1	27	"Mestizo/a"	1	35	4	NA	2	NA	1	9	NA	8	1	1
+"Los Ríos"	2	1	"Hombre"	4	21	12	2017	1	1	"T519"	"T51"	19	214	285	"Babahoyo"	"1201"	1	1	49	"Ignorado/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Los Ríos"	2	1	"Hombre"	4	24	12	2017	1	1	"T519"	"T51"	19	214	285	"Babahoyo"	"1201"	1	1	49	"Ignorado/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Los Ríos"	2	1	"Mujer"	4	15	1	2017	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"1201"	1	1	49	"Ignorado/a"	1	15	3	NA	1	NA	1	5	NA	4	5	2
+"Tungurahua"	2	1	"Hombre"	4	44	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	44	5	NA	1	NA	1	10	NA	9	6	3
+"Bolívar"	12	2	"Hombre"	4	24	2	2017	1	1	"T519"	"T51"	19	214	285	"Guaranda"	"201"	1	1	49	"Mestizo/a"	1	24	4	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	12	2	"Hombre"	4	26	9	2017	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	26	4	NA	2	NA	1	7	NA	6	1	1
+"Manabí"	12	2	"Mujer"	4	18	13	2017	1	1	"T519"	"T51"	19	214	285	"El Carmen"	"1304"	1	1	17	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Pichincha"	12	2	"Hombre"	4	40	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	25	"Mestizo/a"	1	40	5	NA	1	NA	1	9	NA	9	6	3
+"Azuay"	1	1	"Hombre"	4	21	1	2017	1	1	"T519"	"T51"	19	214	285	"Gualaceo"	"103"	1	1	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	5	2
+"Manabí"	12	2	"Hombre"	4	32	13	2017	1	1	"T519"	"T51"	19	214	285	"Chone"	"1303"	1	1	49	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Chimborazo"	2	1	"Hombre"	4	29	6	2017	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	29	4	NA	1	NA	1	7	NA	6	6	3
+"Chimborazo"	2	1	"Mujer"	4	15	6	2017	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	1	1	"Hombre"	4	34	9	2017	1	1	"T519"	"T51"	19	214	285	"El Triunfo"	"909"	1	1	27	"Mestizo/a"	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Esmeraldas"	12	2	"Hombre"	4	29	8	2017	1	1	"T519"	"T51"	19	214	285	"Quinindé"	"804"	1	1	27	"Mestizo/a"	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Tungurahua"	2	1	"Mujer"	4	16	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Guayas"	2	1	"Hombre"	4	36	9	2017	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Chimborazo"	1	2	"Hombre"	4	42	6	2017	1	1	"T519"	"T51"	19	214	285	"Chambo"	"601"	1	1	49	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Pichincha"	2	2	"Mujer"	4	43	17	2017	1	1	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	4	"Mestizo/a"	1	43	5	NA	1	NA	1	10	NA	9	6	3
+"Tungurahua"	1	2	"Hombre"	4	32	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	6	3
+"Tungurahua"	1	2	"Hombre"	4	16	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Tungurahua"	1	3	"Hombre"	4	42	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	25	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Los Ríos"	1	1	"Mujer"	4	23	12	2017	1	1	"T519"	"T51"	19	214	285	"Ventanas"	"1207"	1	1	27	"Mestizo/a"	1	23	4	NA	2	NA	1	6	NA	5	1	1
+"Los Ríos"	12	2	"Mujer"	4	28	12	2017	1	1	"T519"	"T51"	19	214	285	"Valencia"	"1210"	1	1	49	"Mestizo/a"	1	28	4	NA	2	NA	1	7	NA	6	1	1
+"Santa Elena"	12	2	"Hombre"	4	44	24	2017	1	1	"T519"	"T51"	19	214	285	"Salinas"	"2403"	2	1	27	"Mestizo/a"	1	44	5	NA	2	NA	1	10	NA	9	1	1
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	48	23	2017	1	1	"T519"	"T51"	19	214	285	"La Concordia"	"2301"	1	1	27	"Mestizo/a"	1	48	5	NA	2	NA	1	11	NA	10	1	1
+"Pichincha"	12	2	"Hombre"	4	36	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	1	3	"Hombre"	4	25	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Chimborazo"	1	1	"Hombre"	4	72	6	2017	1	1	"T519"	"T51"	19	214	285	"Alausí"	"605"	1	2	27	"Mestizo/a"	1	72	6	NA	1	NA	1	16	NA	15	5	2
+"Chimborazo"	1	1	"Hombre"	4	15	6	2017	1	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	2	1	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	1	1	"Hombre"	4	19	6	2017	1	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	2	1	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	11	1	"Hombre"	4	75	17	2017	1	2	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	75	6	NA	1	NA	2	17	NA	16	6	3
+"Pichincha"	11	1	"Hombre"	4	21	17	2017	1	2	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	21	4	NA	1	NA	2	6	NA	5	6	3
+"Pichincha"	11	1	"Hombre"	4	26	17	2017	1	2	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	2	7	NA	6	6	3
+"Pichincha"	11	1	"Hombre"	4	60	17	2017	1	2	"T511"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	60	5	NA	1	NA	2	14	NA	13	6	3
+"Pichincha"	2	2	"Hombre"	4	16	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	2	"Hombre"	4	50	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	6	3
+"Santo Domingo de los Tsáchilas"	12	2	"Hombre"	4	53	23	2017	1	1	"T519"	"T51"	19	214	285	"Santo Domingo"	"2301"	1	1	27	"Blanco/a"	1	53	5	NA	2	NA	1	12	NA	11	2	1
+"Manabí"	1	1	"Hombre"	4	21	13	2017	1	1	"T519"	"T51"	19	214	285	"Manta"	"1308"	1	1	27	"Mestizo/a"	1	21	4	NA	2	NA	1	6	NA	5	1	1
+"Manabí"	1	1	"Hombre"	4	24	13	2017	1	1	"T519"	"T51"	19	214	285	"Manta"	"1308"	1	1	27	"Mestizo/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Zamora Chinchipe"	1	1	"Hombre"	4	32	19	2017	1	1	"T519"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	1	27	"Mestizo/a"	1	32	4	NA	3	NA	1	8	NA	7	2	1
+"Guayas"	2	1	"Mujer"	4	33	9	2017	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	2	2	"Hombre"	4	17	9	2017	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	38	"Mestizo/a"	1	17	3	NA	2	NA	1	5	NA	4	1	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	51	19	2017	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	51	5	NA	3	NA	1	12	NA	11	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	46	19	2017	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	46	5	NA	3	NA	1	11	NA	10	2	1
+"Loja"	1	1	"Mujer"	4	14	11	2017	1	1	"T519"	"T51"	19	214	285	"Calvas"	"1102"	1	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	4	2
+"Pichincha"	12	2	"Mujer"	4	15	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	1	1	"Mujer"	4	10	5	2017	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	1	1	41	"Mestizo/a"	1	10	2	NA	1	NA	1	4	NA	3	6	3
+"Cotopaxi"	1	1	"Mujer"	4	12	5	2017	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	1	1	41	"Mestizo/a"	1	12	2	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	1	3	"Mujer"	4	16	17	2017	1	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	3	1
+"Los Ríos"	1	1	"Hombre"	4	22	12	2017	1	1	"T510"	"T51"	19	214	285	"Urdaneta"	"1206"	2	1	27	"Mestizo/a"	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Loja"	1	1	"Hombre"	4	45	11	2017	1	1	"T519"	"T51"	19	214	285	"Saraguro"	"1111"	1	1	27	"Indígena"	1	45	5	NA	1	NA	1	11	NA	10	6	3
+"Loja"	1	1	"Hombre"	4	33	11	2017	1	1	"T519"	"T51"	19	214	285	"Saraguro"	"1111"	1	2	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Cotopaxi"	12	2	"Mujer"	4	52	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	52	5	NA	1	NA	1	12	NA	11	8	4
+"Cotopaxi"	1	2	"Hombre"	4	34	5	2017	1	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	2	"Mujer"	4	15	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"505"	1	1	27	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	8	4
+"Cotopaxi"	12	2	"Mujer"	4	30	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	1	"Hombre"	4	16	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"504"	1	2	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	8	4
+"Cotopaxi"	1	1	"Hombre"	4	33	5	2017	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	1	3	"Hombre"	4	15	17	2017	1	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	3	1
+"Pichincha"	1	3	"Mujer"	4	27	17	2017	1	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	3	1
+"Pichincha"	12	2	"Mujer"	4	84	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1705"	1	2	27	"Mestizo/a"	1	84	6	NA	1	NA	1	18	NA	17	6	3
+"Azuay"	1	1	"Mujer"	4	19	11	2017	1	1	"T519"	"T51"	19	214	285	"Saraguro"	"108"	1	2	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Azuay"	1	1	"Hombre"	4	54	1	2017	1	1	"T519"	"T51"	19	214	285	"Santa Isabel"	"108"	1	1	27	"Mestizo/a"	1	54	5	NA	1	NA	1	12	NA	11	4	2
+"Azuay"	1	1	"Hombre"	4	53	1	2017	1	1	"T510"	"T51"	19	214	285	"Pucará"	"108"	1	1	27	"Mestizo/a"	1	53	5	NA	1	NA	1	12	NA	11	8	4
+"Tungurahua"	2	1	"Mujer"	4	23	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	2	1	"Mujer"	4	39	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	39	4	NA	1	NA	1	9	NA	8	6	3
+"Chimborazo"	1	1	"Hombre"	4	21	6	2017	1	1	"T519"	"T51"	19	214	285	"Chunchi"	"605"	1	1	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	2	1	"Hombre"	4	14	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Tungurahua"	2	1	"Mujer"	4	16	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	1	1	"Hombre"	4	17	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"504"	2	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	8	4
+"Zamora Chinchipe"	2	1	"Hombre"	4	43	19	2017	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	43	5	NA	3	NA	1	10	NA	9	2	1
+"Loja"	1	1	"Hombre"	4	58	11	2017	1	1	"T519"	"T51"	19	214	285	"Calvas"	"1102"	1	1	27	"Mestizo/a"	1	58	5	NA	1	NA	1	13	NA	12	4	2
+"Loja"	1	1	"Mujer"	4	17	11	2017	1	1	"T519"	"T51"	19	214	285	"Loja"	"1101"	2	2	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	4	2
+"Tungurahua"	2	1	"Mujer"	4	14	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	41	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	6	3
+"Tungurahua"	2	1	"Mujer"	4	15	17	2017	1	1	"T519"	"T51"	19	214	285	"Quito"	"1801"	1	1	44	"Mestizo/a"	1	15	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	1	2	"Hombre"	4	26	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	49	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	8	4
+"Cotopaxi"	1	2	"Hombre"	4	38	5	2017	1	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	49	"Mestizo/a"	1	38	4	NA	1	NA	1	9	NA	8	8	4
+"Tungurahua"	2	1	"Hombre"	4	25	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Tungurahua"	2	1	"Mujer"	4	20	18	2017	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Tungurahua"	1	2	"Hombre"	4	31	18	2017	1	1	"T519"	"T51"	19	214	285	"Quero"	"1807"	1	1	17	"Mestizo/a"	1	31	4	NA	1	NA	1	8	NA	7	6	3
+"Guayas"	3	1	"Hombre"	4	28	9	2017	1	1	"T511"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	23	"Mestizo/a"	1	28	4	NA	2	NA	1	7	NA	6	1	1
+"Cotopaxi"	1	2	"Hombre"	4	26	5	2017	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	8	4
+"Guayas"	12	2	"Hombre"	4	54	9	2017	1	1	"T519"	"T51"	19	214	285	"Milagro"	"910"	1	2	27	"Mestizo/a"	1	54	5	NA	2	NA	1	12	NA	11	1	1
+"Cotopaxi"	1	2	"Mujer"	4	20	5	2017	1	1	"T519"	"T51"	19	214	285	"La Maná"	"502"	1	1	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	1	1
+"Tungurahua"	1	2	"Hombre"	4	33	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Manabí"	1	1	"Hombre"	4	36	13	2018	1	1	"T519"	"T51"	19	214	285	"Bolívar"	"1302"	1	1	27	"Mestizo/a"	1	36	4	NA	2	NA	1	9	NA	8	1	1
+"Pichincha"	12	2	"Hombre"	4	50	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	2	49	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	6	3
+"Tungurahua"	1	3	"Hombre"	4	65	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	65	6	NA	1	NA	1	15	NA	14	6	3
+"Esmeraldas"	1	1	"Hombre"	4	22	8	2018	1	1	"T519"	"T51"	19	214	285	"Eloy Alfaro"	"802"	1	1	27	"Afroecuatoriano/a Afrodescendiente"	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Tungurahua"	2	1	"Mujer"	4	21	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	21	4	NA	1	NA	1	6	NA	5	6	3
+"Zamora Chinchipe"	2	1	"Hombre"	4	40	19	2018	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	40	5	NA	3	NA	1	9	NA	9	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	46	19	2018	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Mestizo/a"	1	46	5	NA	3	NA	1	11	NA	10	2	1
+"Cotopaxi"	1	2	"Hombre"	4	37	5	2018	1	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	8	4
+"Chimborazo"	1	2	"Hombre"	4	25	6	2018	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Chimborazo"	1	2	"Hombre"	4	32	6	2018	1	1	"T519"	"T51"	19	214	285	"Penipe"	"601"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Manabí"	32	2	"Hombre"	4	33	13	2018	1	1	"T519"	"T51"	19	214	285	"El Carmen"	"1304"	1	1	27	"Mestizo/a"	1	33	4	NA	2	NA	1	8	NA	7	1	1
+"Guayas"	32	2	"Hombre"	4	52	9	2018	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	1	1	27	"Mestizo/a"	1	52	5	NA	2	NA	1	12	NA	11	1	1
+"Guayas"	32	2	"Hombre"	4	59	9	2018	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	2	"Mestizo/a"	1	59	5	NA	2	NA	1	13	NA	12	1	1
+"Cotopaxi"	12	2	"Mujer"	4	85	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	85	6	NA	1	NA	1	18	NA	18	8	4
+"Pichincha"	2	2	"Mujer"	4	17	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Zamora Chinchipe"	1	1	"Hombre"	4	16	19	2018	1	1	"T519"	"T51"	19	214	285	"Chinchipe"	"1902"	1	1	27	"Mestizo/a"	1	16	3	NA	3	NA	1	5	NA	4	3	1
+"Zamora Chinchipe"	1	1	"Hombre"	4	17	19	2018	1	1	"T510"	"T51"	19	214	285	"Chinchipe"	"1902"	1	2	27	"Mestizo/a"	1	17	3	NA	3	NA	1	5	NA	4	3	1
+"Tungurahua"	11	2	"Hombre"	4	37	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Chimborazo"	2	1	"Hombre"	4	27	6	2018	1	1	"T510"	"T51"	19	214	285	"Riobamba"	"601"	1	1	44	"Mestizo/a"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	1	3	"Hombre"	4	49	17	2018	1	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	3	1
+"Pichincha"	1	3	"Hombre"	4	31	17	2018	1	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	1	31	4	NA	1	NA	1	8	NA	7	3	1
+"Tungurahua"	1	2	"Hombre"	4	53	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	2	27	"Mestizo/a"	1	53	5	NA	1	NA	1	12	NA	11	6	3
+"Tungurahua"	1	2	"Hombre"	4	34	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Cotopaxi"	12	2	"Hombre"	4	36	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	8	4
+"Tungurahua"	2	1	"Hombre"	4	32	18	2018	1	1	"T510"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	6	3
+"Guayas"	1	1	"Mujer"	4	42	9	2018	1	1	"T510"	"T51"	19	214	285	"Balzar"	"908"	1	1	27	"Mestizo/a"	1	42	5	NA	2	NA	1	10	NA	9	1	1
+"Pichincha"	1	3	"Mujer"	4	28	17	2018	1	1	"T519"	"T51"	19	214	285	"Cayambe"	"1702"	1	2	2	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Tungurahua"	1	2	"Hombre"	4	47	18	2018	1	1	"T519"	"T51"	19	214	285	"San Pedro de Pelileo"	"1807"	1	1	1	"Mestizo/a"	1	47	5	NA	1	NA	1	11	NA	10	6	3
+"Cotopaxi"	1	2	"Hombre"	4	22	12	2018	1	1	"T519"	"T51"	19	214	285	"Quevedo"	"502"	1	1	27	"Mestizo/a"	1	22	4	NA	2	NA	1	6	NA	5	1	1
+"Cotopaxi"	12	2	"Hombre"	4	21	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	17	"Blanco/a"	1	21	4	NA	1	NA	1	6	NA	5	8	4
+"Cotopaxi"	1	2	"Hombre"	4	42	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	8	4
+"Cotopaxi"	1	2	"Hombre"	4	34	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	34	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	2	"Mujer"	4	30	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	2	"Mujer"	4	29	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	29	4	NA	1	NA	1	7	NA	6	8	4
+"Cotopaxi"	12	2	"Hombre"	4	23	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"501"	1	1	17	"Indígena"	1	23	4	NA	1	NA	1	6	NA	5	6	3
+"Pastaza"	2	1	"Hombre"	4	27	16	2018	1	1	"T519"	"T51"	19	214	285	"Pastaza"	"1601"	1	1	27	"Mestizo/a"	1	27	4	NA	3	NA	1	7	NA	6	2	1
+"Chimborazo"	2	1	"Mujer"	4	33	6	2018	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Manabí"	1	1	"Hombre"	4	29	13	2018	1	1	"T519"	"T51"	19	214	285	"Flavio Alfaro"	"1305"	1	1	27	"Mestizo/a"	1	29	4	NA	2	NA	1	7	NA	6	1	1
+"Manabí"	32	2	"Hombre"	4	32	13	2018	1	1	"T519"	"T51"	19	214	285	"El Carmen"	"1304"	1	1	49	"Mestizo/a"	1	32	4	NA	2	NA	1	8	NA	7	1	1
+"Zamora Chinchipe"	1	1	"Hombre"	4	27	19	2018	1	1	"T510"	"T51"	19	214	285	"Yantzaza (Yanzatza)"	"1905"	1	1	27	"Mestizo/a"	1	27	4	NA	3	NA	1	7	NA	6	2	1
+"Zamora Chinchipe"	2	1	"Hombre"	4	21	19	2018	1	1	"T519"	"T51"	19	214	285	"Zamora"	"1901"	1	1	27	"Indígena"	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Tungurahua"	2	1	"Hombre"	4	35	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	35	4	NA	1	NA	1	9	NA	8	6	3
+"Azuay"	2	2	"Hombre"	4	44	1	2018	1	1	"T510"	"T51"	19	214	285	"Cuenca"	"101"	1	1	49	"Ignorado/a"	1	44	5	NA	1	NA	1	10	NA	9	5	2
+"Chimborazo"	12	2	"Mujer"	4	55	6	2018	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	49	"Mestizo/a"	1	55	5	NA	1	NA	1	13	NA	12	6	3
+"Tungurahua"	1	2	"Mujer"	4	17	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Morona Santiago"	1	1	"Mujer"	4	18	14	2018	1	1	"T519"	"T51"	19	214	285	"Limón Indanza"	"1403"	1	1	27	"Mestizo/a"	1	18	3	NA	3	NA	1	5	NA	4	3	1
+"Morona Santiago"	1	1	"Mujer"	4	21	14	2018	1	1	"T519"	"T51"	19	214	285	"Sucúa"	"1405"	1	1	27	"Indígena"	1	21	4	NA	3	NA	1	6	NA	5	2	1
+"Cañar"	2	1	"Hombre"	4	18	3	2018	1	1	"T519"	"T51"	19	214	285	"Biblián"	"301"	1	2	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	85	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1705"	1	2	49	"Mestizo/a"	1	85	6	NA	1	NA	1	18	NA	18	6	3
+"Pichincha"	12	2	"Mujer"	4	16	17	2018	1	1	"T519"	"T51"	19	214	285	"Mejía"	"1703"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	18	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1705"	1	1	27	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Loja"	2	1	"Mujer"	4	3	11	2018	1	1	"T518"	"T51"	19	214	285	"Loja"	"1101"	1	1	41	"Mestizo/a"	1	3	1	NA	1	NA	1	2	NA	1	4	2
+"Cotopaxi"	1	1	"Hombre"	4	46	12	2018	1	1	"T519"	"T51"	19	214	285	"Quevedo"	"504"	2	1	27	"Indígena"	1	46	5	NA	2	NA	1	11	NA	10	1	1
+"Cotopaxi"	1	2	"Hombre"	4	43	5	2018	1	1	"T519"	"T51"	19	214	285	"Sigchos"	"505"	1	1	27	"Indígena"	1	43	5	NA	1	NA	1	10	NA	9	5	2
+"Cotopaxi"	1	2	"Hombre"	4	24	18	2018	1	1	"T519"	"T51"	19	214	285	"Santiago de Píllaro"	"505"	1	2	27	"Indígena"	1	24	4	NA	1	NA	1	6	NA	5	6	3
+"Guayas"	11	2	"Mujer"	4	18	9	2018	1	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	49	"Mestizo/a"	1	18	3	NA	2	NA	1	5	NA	4	1	1
+"Chimborazo"	2	1	"Hombre"	4	36	6	2018	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	34	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Tungurahua"	1	2	"Hombre"	4	26	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Cotopaxi"	1	1	"Mujer"	4	20	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"504"	2	1	27	"Indígena"	1	20	3	NA	1	NA	1	6	NA	5	8	4
+"Manabí"	1	2	"Hombre"	4	34	13	2018	1	1	"T519"	"T51"	19	214	285	"Chone"	"1303"	1	1	49	"Mestizo/a"	1	34	4	NA	2	NA	1	8	NA	7	1	1
+"Pichincha"	2	2	"Hombre"	4	19	17	2018	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	2	1	27	"Mestizo/a"	1	19	3	NA	1	NA	1	5	NA	4	6	3
+"Chimborazo"	1	2	"Hombre"	4	36	6	2018	1	1	"T519"	"T51"	19	214	285	"Riobamba"	"601"	1	1	49	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	6	3
+"Cotopaxi"	1	2	"Mujer"	4	46	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	46	5	NA	1	NA	1	11	NA	10	8	4
+"Cotopaxi"	1	2	"Hombre"	4	16	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	8	4
+"Tungurahua"	12	2	"Hombre"	4	37	18	2018	1	1	"T519"	"T51"	19	214	285	"Ambato"	"1801"	1	1	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	6	3
+"Los Ríos"	2	1	"Hombre"	4	5	9	2018	1	1	"T519"	"T51"	19	214	285	"El Empalme"	"1205"	1	1	41	"Mestizo/a"	1	5	1	NA	2	NA	1	3	NA	2	1	1
+"El Oro"	1	2	"Mujer"	4	24	7	2018	1	1	"T510"	"T51"	19	214	285	"Machala"	"701"	1	1	27	"Mestizo/a"	1	24	4	NA	2	NA	1	6	NA	5	1	1
+"Cotopaxi"	2	1	"Hombre"	4	32	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	32	4	NA	1	NA	1	8	NA	7	8	4
+"Cotopaxi"	1	1	"Hombre"	4	16	5	2018	1	1	"T519"	"T51"	19	214	285	"Salcedo"	"505"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	8	4
+"Pichincha"	1	1	"Hombre"	4	28	17	2018	1	1	"T519"	"T51"	19	214	285	"Mejía"	"1703"	1	2	27	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Cotopaxi"	1	1	"Hombre"	4	41	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	41	5	NA	1	NA	1	10	NA	9	6	3
+"Cotopaxi"	1	1	"Mujer"	4	44	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	44	5	NA	1	NA	1	10	NA	9	6	3
+"Pichincha"	12	2	"Hombre"	4	57	17	2018	1	1	"T519"	"T51"	19	214	285	"Mejía"	"1703"	1	1	27	"Mestizo/a"	1	57	5	NA	1	NA	1	13	NA	12	6	3
+"Pichincha"	12	2	"Hombre"	4	28	17	2018	1	1	"T519"	"T51"	19	214	285	"Rumiñahui"	"1705"	1	1	49	"Mestizo/a"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Cañar"	2	1	"Hombre"	4	17	3	2018	1	1	"T519"	"T51"	19	214	285	"Azogues"	"301"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	26	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"1705"	1	1	49	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	8	4
+"Zamora Chinchipe"	1	1	"Mujer"	4	14	19	2018	1	1	"T519"	"T51"	19	214	285	"Nangaritza"	"1905"	1	1	41	"Mestizo/a"	1	14	3	NA	3	NA	1	4	NA	3	3	1
+"Cotopaxi"	1	2	"Mujer"	4	20	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	8	4
+"Cotopaxi"	1	2	"Mujer"	4	36	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	36	4	NA	1	NA	1	9	NA	8	8	4
+"Cotopaxi"	1	2	"Mujer"	4	16	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	8	4
+"Cotopaxi"	1	2	"Mujer"	4	23	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	23	4	NA	1	NA	1	6	NA	5	8	4
+"Cotopaxi"	1	2	"Hombre"	4	39	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	39	4	NA	1	NA	1	9	NA	8	8	4
+"Cotopaxi"	1	2	"Mujer"	4	30	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	30	4	NA	1	NA	1	8	NA	7	8	4
+"Guayas"	1	2	"Hombre"	4	38	9	2018	1	1	"T519"	"T51"	19	214	285	"San Jacinto de Yaguachi"	"920"	2	2	27	"Mestizo/a"	1	38	4	NA	2	NA	1	9	NA	8	1	1
+"Cotopaxi"	1	1	"Hombre"	4	27	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	27	4	NA	1	NA	1	7	NA	6	6	3
+"Cotopaxi"	1	1	"Hombre"	4	44	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	44	5	NA	1	NA	1	10	NA	9	6	3
+"Cotopaxi"	1	1	"Hombre"	4	62	5	2018	1	2	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	62	5	NA	1	NA	2	14	NA	13	6	3
+"Cotopaxi"	1	1	"Hombre"	4	42	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Cotopaxi"	1	1	"Hombre"	4	17	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	12	2	"Hombre"	4	42	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	8	4
+"Morona Santiago"	1	1	"Mujer"	4	39	14	2018	1	1	"T519"	"T51"	19	214	285	"Santiago"	"1405"	1	1	27	"Mestizo/a"	1	39	4	NA	3	NA	1	9	NA	8	2	1
+"Tungurahua"	1	2	"Hombre"	4	48	18	2018	1	1	"T519"	"T51"	19	214	285	"San Pedro de Pelileo"	"1807"	1	1	1	"Mestizo/a"	1	48	5	NA	1	NA	1	11	NA	10	6	3
+"Cotopaxi"	1	1	"Hombre"	4	52	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	52	5	NA	1	NA	1	12	NA	11	6	3
+"Cotopaxi"	1	1	"Mujer"	4	54	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	54	5	NA	1	NA	1	12	NA	11	6	3
+"Cotopaxi"	1	2	"Mujer"	4	35	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	35	4	NA	1	NA	1	9	NA	8	8	4
+"Cotopaxi"	1	2	"Mujer"	4	14	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	8	4
+"Cotopaxi"	1	2	"Hombre"	4	48	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	49	"Mestizo/a"	1	48	5	NA	1	NA	1	11	NA	10	8	4
+"Cotopaxi"	12	2	"Hombre"	4	37	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	37	4	NA	1	NA	1	9	NA	8	8	4
+"Cotopaxi"	12	2	"Hombre"	4	50	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	50	5	NA	1	NA	1	12	NA	11	8	4
+"Cotopaxi"	12	2	"Hombre"	4	60	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	60	5	NA	1	NA	1	14	NA	13	8	4
+"Loja"	2	1	"Mujer"	4	13	11	2018	1	1	"T519"	"T51"	19	214	285	"Gonzanamá"	"1101"	1	1	41	"Mestizo/a"	1	13	3	NA	1	NA	1	4	NA	3	5	2
+"Cotopaxi"	1	1	"Hombre"	4	28	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	28	4	NA	1	NA	1	7	NA	6	6	3
+"Cotopaxi"	1	2	"Hombre"	4	49	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	27	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	8	4
+"Pichincha"	12	2	"Mujer"	4	18	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1705"	1	1	49	"Mestizo/a"	1	18	3	NA	1	NA	1	5	NA	4	6	3
+"Cotopaxi"	1	2	"Hombre"	4	49	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	2	27	"Mestizo/a"	1	49	5	NA	1	NA	1	11	NA	10	8	4
+"Pichincha"	12	2	"Mujer"	4	26	17	2018	1	1	"T519"	"T51"	19	214	285	"Rumiñahui"	"1705"	1	1	49	"Mestizo/a"	1	26	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	12	2	"Hombre"	4	33	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1705"	1	2	27	"Mestizo/a"	1	33	4	NA	1	NA	1	8	NA	7	6	3
+"Cotopaxi"	2	1	"Hombre"	4	17	5	2018	1	1	"T519"	"T51"	19	214	285	"Sigchos"	"501"	1	1	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	5	2
+"Cotopaxi"	12	2	"Hombre"	4	61	5	2018	1	1	"T519"	"T51"	19	214	285	"Latacunga"	"501"	1	1	30	"Indígena"	1	61	5	NA	1	NA	1	14	NA	13	8	4
+"Pichincha"	12	2	"Mujer"	4	11	17	2018	1	1	"T519"	"T51"	19	214	285	"Rumiñahui"	"1705"	1	1	41	"Mestizo/a"	1	11	2	NA	1	NA	1	4	NA	3	6	3
+"Azuay"	2	2	"Hombre"	4	14	1	2018	1	1	"T519"	"T51"	19	214	285	"Cuenca"	"101"	1	1	27	"Mestizo/a"	1	14	3	NA	1	NA	1	4	NA	3	5	2
+"Cotopaxi"	1	1	"Hombre"	4	34	5	2018	1	1	"T519"	"T51"	19	214	285	"Pujilí"	"504"	2	2	27	"Indígena"	1	34	4	NA	1	NA	1	8	NA	7	6	3
+"Pichincha"	2	2	"Hombre"	4	20	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	49	"Mestizo/a"	1	20	3	NA	1	NA	1	6	NA	5	6	3
+"Pichincha"	2	2	"Mujer"	4	16	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	2	"Hombre"	4	16	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Mestizo/a"	1	16	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	12	2	"Hombre"	4	25	17	2018	1	1	"T510"	"T51"	19	214	285	"Quito"	"1701"	1	2	27	"Mestizo/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	2	2	"Mujer"	4	17	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	2	2	27	"Mestizo/a"	1	17	3	NA	1	NA	1	5	NA	4	6	3
+"Pichincha"	2	1	"Mujer"	4	12	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	41	"Ignorado/a"	1	12	2	NA	1	NA	1	4	NA	3	6	3
+"Pichincha"	2	1	"Hombre"	4	25	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"1701"	1	1	27	"Ignorado/a"	1	25	4	NA	1	NA	1	7	NA	6	6	3
+"Esmeraldas"	2	1	"Hombre"	4	29	17	2018	1	1	"T519"	"T51"	19	214	285	"Quito"	"801"	1	1	27	"Mestizo/a"	1	29	4	NA	1	NA	1	7	NA	6	6	3
+"Pichincha"	12	2	"Hombre"	4	42	17	2018	1	1	"T519"	"T51"	19	214	285	"Rumiñahui"	"1705"	1	1	44	"Mestizo/a"	1	42	5	NA	1	NA	1	10	NA	9	6	3
+"Guayas"	5	1	"Hombre"	3	7	9	2014	6	1	"T519"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	"Mestizo/a"	0	0	1	NA	2	NA	1	1	NA	1	1	1
+"Guayas"	5	1	"Hombre"	3	3	12	2011	5	3	"T519"	"T51"	19	214	285	"Ventanas"	"901"	NA	NA	NA	NA	0	0	1	NA	2	NA	2	1	NA	1	1	1
+"Azuay"	1	1	"Mujer"	3	9	1	2012	4	1	"T513"	"T51"	19	214	285	"Sigsig"	"109"	NA	NA	NA	NA	0	0	1	NA	1	NA	1	1	NA	1	6	3
+"Guayas"	5	1	"Mujer"	3	10	9	2014	4	1	"T519"	"T51"	19	214	285	"Durán"	"901"	NA	NA	NA	"Mestizo/a"	0	0	1	NA	2	NA	1	1	NA	1	1	1
+"Sucumbíos"	1	1	"Mujer"	3	4	21	2011	3	1	"T519"	"T51"	19	214	285	"Shushufindi"	"2104"	NA	NA	NA	NA	0	0	1	NA	3	NA	1	1	NA	1	1	1
+"Guayas"	5	1	"Hombre"	3	7	9	2011	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	NA	NA	NA	NA	0	0	1	NA	2	NA	1	1	NA	1	1	1
+"Guayas"	5	1	"Mujer"	3	1	9	2018	2	1	"T510"	"T51"	19	214	285	"Guayaquil"	"901"	1	1	27	"Mestizo/a"	0	0	1	NA	2	NA	1	1	NA	1	1	1
+"Azuay"	2	1	"Mujer"	3	1	1	2012	1	1	"T511"	"T51"	19	214	285	"Cuenca"	"101"	NA	NA	NA	NA	0	0	1	NA	1	NA	1	1	NA	1	5	2
+"Manabí"	1	1	"Hombre"	3	1	13	2013	1	1	"T519"	"T51"	19	214	285	"Pedernales"	"1314"	NA	NA	NA	NA	0	0	1	NA	2	NA	1	1	NA	1	1	1
+"Guayas"	2	1	"Hombre"	2	1	20	2014	6	1	"T519"	"T51"	19	214	285	"San Cristóbal"	"901"	NA	NA	NA	"Otro/a"	0	0	1	NA	4	NA	1	1	NA	1	1	1
+"El Oro"	12	2	"Mujer"	2	1	7	2013	1	1	"T510"	"T51"	19	214	285	"Machala"	"701"	NA	NA	NA	NA	0	0	1	NA	2	NA	1	1	NA	1	1	1
+"Pichincha"	1	3	"Mujer"	2	1	17	2017	1	1	"T519"	"T51"	19	214	285	"Pedro Vicente Maldonado"	"1708"	1	1	25	"Mestizo/a"	0	0	1	NA	1	NA	1	1	NA	1	3	1
